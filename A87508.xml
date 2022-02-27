@@ -1,0 +1,644 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Doctor Hammond his Ektenesteron, or a greater ardency in Christ's love of God at one time, than another proved to be utterly irreconcileable with 1. His fulnesse of habituall grace. 2. The perpetuall happinesse, and 3. The impeccability of his soule. By Henry Ieanes, minister of Gods Word at Chedzoy in Somerset-shire</title>
+            <author>Jeanes, Henry, 1611-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87508</idno>
+            <idno type="STC">Wing J506</idno>
+            <idno type="STC">Thomason E925_3</idno>
+            <idno type="STC">ESTC R202617</idno>
+            <idno type="EEBO-CITATION">99896315</idno>
+            <idno type="PROQUEST">99896315</idno>
+            <idno type="VID">154228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Doctor Hammond his Ektenesteron, or a greater ardency in Christ's love of God at one time, than another proved to be utterly irreconcileable with 1. His fulnesse of habituall grace. 2. The perpetuall happinesse, and 3. The impeccability of his soule. By Henry Ieanes, minister of Gods Word at Chedzoy in Somerset-shire</title>
+                  <author>Jeanes, Henry, 1611-1662.</author>
+               </titleStmt>
+               <extent>[2], 40, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hall, printer to the University, for Thomas Robinson,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Hammond, Henry.  Ektenesteron.</note>
+                  <note>Fourth word of title in Greek characters.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 5".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hammond, Henry, 1605-1660. --  Ektenesteron --  Controversial literature --  Early works to 1800.</term>
+               <term>Jesus Christ --  Character --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154228:1"/>
+            <pb facs="tcp:154228:1"/>
+            <p>
+               <hi>Doctor HAMMOND</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or A greater Ardency in Chriſt<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> love of God at one time, than another PROVED TO BE <g ref="char:V">Ʋ</g>TTERLY IRRECONCILEABLE With
+<list>
+                  <item>1. <hi>His fulneſſe of habituall grace.</hi>
+                  </item>
+                  <item>2. <hi>The perpetuall happineſſe, and</hi>
+                  </item>
+                  <item>3. <hi>The impeccability of his ſoule.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By HENRY IEANES, Miniſter of Gods Word at <hi>Chedzoy</hi> in Somerſet-ſhire.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by HENRY HALL, Printer to the UNIVERSITY, for THOMAS ROBINSON. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:154228:2"/>
+            <pb n="1" facs="tcp:154228:2"/>
+            <div type="quotation_from_Hammond">
+               <head>Doctor <hi>HAMMOND,</hi>
+               </head>
+               <p n="1">1. <seg rend="decorInit">I</seg> Was very willing to hearken to the <hi>ſeaſonable</hi> advice of many, and to wholly <hi>withdraw</hi> my ſelfe <hi>à foro contentioſo,</hi> to ſome more <hi>pleaſing,</hi> and <hi>profitable</hi> imployment; but diſcerning it to be the <hi>deſire</hi> of the <hi>Author</hi> of the Booke, intituled, <hi>A mixture of Scho<g ref="char:EOLhyphen"/>laſticall and Practicall Divinity,</hi> that I ſhould <hi>reply</hi> to his <hi>examination</hi> of one paſſage of mine againſt <hi>M<hi rend="sup">r</hi> Cawdrey,</hi> I ſhall make no ſcruple immediately to <hi>obey</hi> him; not only becauſe it may be done in very <hi>few</hi> words, but eſpecially becauſe the <hi>doctrine</hi> which he affixeth to me, ſeems (and not without ſome <hi>reaſon</hi>) to be contrary to the <hi>truth</hi> of <hi>Scripture,</hi> which I am to looke on with all <hi>reverent</hi> ſubmiſſion, <hi>&amp; acquieſce in,</hi> with <hi>captivation</hi> of <hi>under<g ref="char:EOLhyphen"/>ſtanding,</hi> and ſo not aſſert any thing from mine <hi>owne</hi> conceptions, which is but ſeemingly <hi>contrary</hi> to it.</p>
+               <p n="2">2. The propoſition which he <hi>affixes</hi> to me, is this; <hi>That Chriſts Love of God was capable of further degrees,</hi> and that he refutes as a thing <hi>contrary to that point</hi> (a <hi>truth</hi> of <hi>Scripture</hi>) which he had in hand, <hi>viz.</hi> The <hi>dwelling of fulneſſe of all habituall Grace in Chriſt.</hi>
+               </p>
+               <p n="3">3. By this I ſuppoſe I may conclude his meaning to be, that I have affirmed <hi>Chriſts Love</hi> of <hi>God</hi> (meaning thereby that <hi>habituall grace</hi> of <hi>divine Charity</hi>) to have been <hi>capable of further degrees,</hi> ſo as that <hi>capacity</hi> of <hi>further degrees,</hi> is the <hi>deniall</hi> of <hi>all-fulneſſe of that habituall grace</hi> already in him.</p>
+               <p n="4">4. And truly, had I thus <hi>expreſt</hi> my ſelfe, or let fall any words, which might have been thus <hi>interpretable,</hi> I acknowledg I had been very <hi>injurious</hi> not only to the <hi>verity</hi> of <hi>God,</hi> but alſo to my <hi>own conceptions,</hi> and even to the <hi>cauſe</hi> which I had in hand, which had not been <hi>ſup<g ref="char:EOLhyphen"/>ported,</hi> but <hi>betrayed</hi> by any ſuch apprehenſions of the <hi>imperfection of Chriſts habituall graces.</hi>
+               </p>
+               <p n="5">5. This I could eaſily ſhew, and withall how <hi>cautiouſly</hi> and <hi>expre<g ref="char:EOLhyphen"/>ſly</hi>
+                  <pb n="2" facs="tcp:154228:3"/>it was <hi>fore-ſtall'd</hi> by me; But to the matter in hand, it is ſufficient, that I profeſſe I never thought it; but deem it a <hi>contrariety</hi> to expreſſe words of <hi>Scripture</hi> in any man who ſhall think it, and in ſhort, that I never gave <hi>occaſion</hi> to any man to <hi>believe</hi> it my opinion, having never ſaid it in <hi>thoſe</hi> words which he ſets up to <hi>refute</hi> in mee, never in any <hi>other</hi> that may be reaſonably <hi>interpretable</hi> to that ſenſe.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>Whereas you terme your compliance with my deſire, that you ſhould reply unto me, <hi>Obedience;</hi> I looke upon it as a very high <hi>Complement;</hi> (for what am I, that my deſire ſhould have with you the authority of a Command?) and ſhall not be ſo uncharitable, as to thinke it a ſcoffe, though ſome of my friends have repreſented it to me under that notion: but ſuppoſe it were meant in way of deriſion, yet this ſhall abate nothing of my gratitude for your reply, which is a fa<g ref="char:EOLhyphen"/>vour, and honour, of which I willingly confeſſe my ſelfe to be unworthy.</p>
+                  <p>The beſt teſtimony I can give you of my thankfulneſſe is, to aſſure you, that if in the exceptions, which you ſhall conde<g ref="char:EOLhyphen"/>ſcend to returne unto this paper, you can prove that I have done you any injury, you ſhall find me very ready to make you ſatisfaction. But if on the contrary you ſhall fayle in ſuch proofe, I hope you will be ſo much a friend unto the truth, as to retract your miſtake.</p>
+                  <p>You acknowledg, that to affirme, that <hi>Chriſt's habituall love of God was capable of farther degrees, is a contrariety to expreſſe words of Scripture.</hi> Now this propoſition, which you thus diſclaime, is the naturall, and unavoidable ſequele of that which you in this your reply §. 21 confeſſe to be your opinion; to wit, <hi>that the inward acts of Chriſt's love were more intenſe at one time than another:</hi> and this I ſhall make good by an argument, which I ſhall ſubmit unto your ſevereſt exa<g ref="char:EOLhyphen"/>mination.</p>
+                  <p>Intenſion &amp; remiſſion are primarily, &amp; <hi>per ſe,</hi> only of qualities; ſo
+<pb n="3" facs="tcp:154228:3"/>that an action is not capable of degrees of intenſion and re<g ref="char:EOLhyphen"/>miſſion, but ſecondarily, and <hi>mediante qualitate;</hi> in regard of that qualitie, which it produceth, or from which it proceedeth <hi>ratione
+<note n="a" place="margin">Collegium Compl. De ge<g ref="char:EOLhyphen"/>nerat. &amp; corrupt. diſp. 4. qu. 5. §. 11. n. 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Scheib. Metaph. l. 2. c. 12. num. 35.36.</note> termini,</hi> or <hi>ratione principii.</hi> The inten<g ref="char:EOLhyphen"/>ſion and remiſſion of actions therefore muſt be proportioned unto that of thoſe qualities, which they regard, either as their termes, or principles; now you acknowledge <hi>in terminis,</hi> that the in<g ref="char:EOLhyphen"/>ward acts of Chriſts love were more intenſe at one time than at another; and hereupon it undeniably, and unavoidably followeth, that either the <hi>terminus,</hi> ſome quality that was the product of theſe inward acts of love, or elſe the <hi>principium,</hi> ſome qualitie that was the principle of them was more intenſe at one time, than at another.</p>
+                  <p>If you ſay, that the <hi>terminus,</hi> ſome quality, that was the product of theſe inward acts, was more intenſe at one time, than another; why then, firſt, you muſt tell us what this quality is, and in what <hi>Species</hi> of quality it is placed; it cannot with any colour of probability be ranked under any other of the foure <hi>ſpecies</hi> of quality than the firſt; and if it be put there, it muſt be either <hi>diſpoſitio</hi> or <hi>habitus;</hi> now <hi>diſpoſitio</hi> is ſuch an imper<g ref="char:EOLhyphen"/>fect and inchoate a thing, as that I am very loath to think ſo diſhonourably of my Saviour, as to aſcribe it to him. If you make it an habit, then you will run upon that opinion which you diſowne; for it can be no other than a morall habit, and therefore in Chriſt it muſt be a vertuous &amp; gracious habit. To affirme therefore that this quality was more intenſe at one time than at another, will be by juſt conſequence to affirme, that a gracious habit in Chriſt was more intenſe at one time than another. 2 <hi>Entia non ſunt multiplicanda ſine neceſſitate:</hi> and therefore I ſhall reject this quality <hi>è numero entium,</hi> unleſſe you can by convincing arguments prove a neceſſity of aſſerting it. I am not ignorant, that it is a common opinion, that <hi>omnis actio habet terminum;</hi> but how it failes in immanent actions,
+<pb n="4" facs="tcp:154228:4"/>you may ſee (if you will vouchſafe to ſtoope ſo low) in <hi>Schieb<g ref="char:EOLhyphen"/>lers Metaphyſicks</hi> l. 2. c. 10. t. 3. ar. 3. pun. 1.</p>
+                  <p>If you take the other way, and ſay that the principle, the quality producing theſe inward acts of Chriſts love of God, was more intenſe at one time than at another; why then you grant that which you ſeeme to deny; for the principle of them is nothing elſe but the habituall grace, or habit of di<g ref="char:EOLhyphen"/>vine love; and therefore if you averre that to have been capable of farther intenſion, you averre that the habituall grace of Chriſt was capable of farther intenſion, and thus you ſee what the reaſon was that induced me to charge you with this opinion.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Doctor HAMMOND.</head>
+               <p n="6">6. <hi>Firſt,</hi> I ſaid it not in <hi>thoſe</hi> words, which he undertakes to <hi>refute;</hi> Theſe are p. 258. of his <hi>Book</hi> thus ſet down by him.</p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>This point may ſerve for confutation of a paſſage in</hi> Dr. <hi>H. againſt</hi> Mr. <hi>C. to wit, That Chriſts love of God was capable of farther degrees.</hi>
+                  </q>
+               </p>
+               <p n="7">7. Theſe words I never ſaid, nor indeed are they to be found in the <hi>Paſſage</hi> which he ſets down from me, and whereon he grounds them; which, ſaith he, is this:</p>
+               <p>
+                  <bibl>Dr. <hi>H.</hi> p. 222.</bibl> 
+                  <q>
+                     <hi>In the next place he paſſeth to the inforcement of my argument, from what we read concerning Chriſt himſelfe, that he was more intenſe in Prayer at one time than another, when yet the lower degree was ſure no ſin, and prepares to make anſwer to it.</hi> viz. <hi>That Chriſt was above the Law, and did more than the Law required, but men fall ſhort by many degrees of what is requi<g ref="char:EOLhyphen"/>red. But ſure this anſwer is nothing to the matter now in hand, for the evi<g ref="char:EOLhyphen"/>dencing of which, that example of Chriſt was brought by me,</hi> viz. <hi>That ſincere Love is capable of degrees. This was firſt ſhewed in ſeverall men, and in the ſame man at ſeverall times, in the ſeverall rankes of Angells, and at laſt in Chriſt himſelfe more ardent in one act of Prayer than in another.</hi>
+                  </q>
+               </p>
+               <p n="8">8. Here the <hi>Reader</hi> finds not the words <hi>[Chriſts love of God is ca<g ref="char:EOLhyphen"/>pable of further degrees]</hi> and when by <hi>deduction</hi> he endeavours to <hi>con<g ref="char:EOLhyphen"/>clude</hi> them from theſe words, his <hi>concluſion</hi> falls <hi>ſhort</hi> in <hi>one</hi> word <hi>viz. [further]</hi> and 'tis but this,</p>
+               <p>
+                  <hi>That the example of Chriſt will never prove D. H. his concluſion, unleſſe it inferre, that Chriſts love of God was capable of degrees.</hi>
+               </p>
+               <p n="9">9. This is but a <hi>ſlight</hi> charge indeed, yet may be worthy to be ta<g ref="char:EOLunhyphen"/>ken
+<pb n="5" facs="tcp:154228:4"/>
+                  <hi>notice</hi> of in the entrance (though the <hi>principall</hi> weight of my <hi>an<g ref="char:EOLhyphen"/>ſwer</hi> be not laid on it) and ſuggeſt this <hi>ſeaſonable</hi> advertiſement, that he which undertakes to <hi>refute</hi> any ſaying of <hi>another,</hi> muſt oblige him<g ref="char:EOLhyphen"/>ſelfe to an <hi>exact recitall</hi> of it to a <hi>word,</hi> and <hi>ſyllable;</hi> Otherwiſe he may himſelfe become the only <hi>Author</hi> of the Propoſition, which he <hi>refutes.</hi>
+               </p>
+               <p n="10">10. The <hi>difference</hi> is no more than by the <hi>addition</hi> of the word, <hi>[further.]</hi> But that addition may poſſibly beget in the <hi>Readers un<g ref="char:EOLhyphen"/>derſtanding,</hi> a very <hi>conſiderable</hi> difference.</p>
+               <p n="11">11. For this Propoſition <hi>[Chriſts love of God was capable of further degrees]</hi> is readily interpretable to this <hi>dangerous</hi> ſenſe, that <hi>Chriſts love of God was not full,</hi> but ſo farre <hi>imperfect,</hi> as to be <hi>capable of ſome further degrees</hi> than yet it <hi>had;</hi> And thus ſure the <hi>Author</hi> I have now before me, acknowledges to have <hi>underſtood</hi> the words, and according<g ref="char:EOLhyphen"/>ly propoſeth to <hi>refute</hi> them from the conſideration of <hi>the all-fulneſſe of habituall grace in Chriſt,</hi> which he could not do, unleſſe he deemed them a <hi>prejudice</hi> to it.</p>
+               <p n="12">12. But thoſe <hi>other</hi> words, which though he finds not in my <hi>papers,</hi> he yet not <hi>illogically</hi> inferres from them <hi>[that Chriſts love of God was ca<g ref="char:EOLhyphen"/>pable of degrees, more intenſe at one time than at another]</hi> are not ſo <hi>li<g ref="char:EOLhyphen"/>able</hi> to be thus interpreted, but only import that <hi>Chriſts love of God</hi> had in its <hi>latitude</hi> or <hi>amplitude</hi> ſeverall <hi>degrees,</hi> one differing from another. See <hi>magis &amp; minus,</hi> all of them comprehended in that <hi>all-full perfect love of God,</hi> which was alwaies in <hi>Chriſt</hi> ſo <hi>full,</hi> and ſo <hi>perfect,</hi> as not to <hi>want,</hi> and ſo not to be <hi>capable</hi> of <hi>further degrees.</hi>
+               </p>
+               <p n="13">13. The Matter is cleare; The <hi>degrees</hi> of which <hi>Chriſts love of God</hi> is capable; are by me thus expreſt, that <hi>his love was more intenſe at one time than at another;</hi> but ſtill the <hi>higher</hi> of thoſe <hi>degrees</hi> of <hi>intenſneſſe,</hi> was as truly acknowledged to be in <hi>Chriſts love,</hi> at <hi>ſome</hi> time, <hi>viz.</hi> in his <hi>agonie,</hi> as the <hi>lower</hi> was at <hi>another,</hi> and ſo <hi>all</hi> the <hi>degrees,</hi> which are ſuppoſed to be mentioned of his <hi>love,</hi> are alſo <hi>ſuppoſed,</hi> and <hi>expreſly</hi> affirmed to have been <hi>in him</hi> at ſome time or other, whereas a ſuppo<g ref="char:EOLhyphen"/>ſed <hi>capacity of further degrees, ſeemes</hi> at leaſt (and ſo is reſolved by <hi>that Author</hi>) to <hi>inferre,</hi> that theſe <hi>degrees</hi> were <hi>not</hi> in <hi>Chriſt</hi> (the direct <hi>contradictorie</hi> to the <hi>former</hi> Propoſition) and ſo that they were <hi>wan<g ref="char:EOLhyphen"/>ting</hi> in him, and the but <hi>ſeeming</hi> aſſerting of that <hi>want</hi> is juſtly <hi>cenſured,</hi> as <hi>prejudiciall</hi> to <hi>Chriſts fulneſſe.</hi> Here then was one <hi>miſadventure</hi> in his proceeding.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <pb n="6" facs="tcp:154228:5"/>
+                  <head>JEANES.</head>
+                  <p n="1">1. He that ſaith that Chriſts love of God was more intenſe in his agonie than before, affirmeth, that his love of God before his agonie was capable of farther degrees, than yet it had; but you affirme the former, and therefore I doe you no wrong to impute the latter unto you: The premiſes virtually containe the concluſion, and therefore he that holds the premiſes, maintaineth the concluſion. I ſhall readily hearken to your ſeaſonable advertiſement, that <hi>he, which un<g ref="char:EOLhyphen"/>dertakes to refute any ſaying of anothers, muſt oblige himſelfe to an exact recitall of it to a word and ſyllable;</hi> but notwith<g ref="char:EOLhyphen"/>ſtanding it, I ſhall aſſume the libertie to charge you with the conſequences of your words, and if I cannot make good my charge, the ſhame will light on me.</p>
+                  <p n="2">2. If there were any miſtake in ſupplying the word <hi>[far<g ref="char:EOLhyphen"/>ther]</hi> it was a miſtake of charity, for I was ſo charitable, as to thinke that you ſpake pertinently to the matter you had in hand: I conceived that your ſcope in your treatiſe of will-worſhip was to prove, that there be uncommanded degrees of the love of God, that thoſe large incluſive words <hi>thou ſhalt love the Lord thy God with all thy heart, with all thy ſoule &amp;c.</hi> do not command the higheſt and moſt intenſe degree of the love of God; ſo that a man may fulfill this command, and yet there may be roome or place for <hi>farther</hi> and higher degrees of the love of God. Now this propoſition, Chriſts love of God was capable of degrees, which you confeſſe to be not illogically inferred from your papers will never reach this point, unleſſe you underſtand the word <hi>farther,</hi> and there<g ref="char:EOLhyphen"/>fore your cenſure of my ſupplying the word <hi>farther</hi> as a miſ<g ref="char:EOLhyphen"/>adventure in my proceeding is groundleſſe.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr <hi>HAMMOND.</hi>
+               </head>
+               <p n="14">14. But this is but the <hi>proemial</hi> part of my <hi>Reply,</hi> there is a more <hi>materiall</hi> part of it ſtill behind, which may yet ſeeme <hi>neceſſary</hi> to be <hi>added,</hi> viz. to mind him of (what he well knowes) the <hi>diſtinction</hi> between <hi>habits</hi> and <hi>acts of vertues,</hi> or <hi>graces;</hi> and that <hi>love,</hi> the <hi>Genus,</hi>
+                  <pb n="7" facs="tcp:154228:5"/>y doth equally <hi>comprehend</hi> both theſe <hi>ſpecies,</hi> and that his <hi>diſcourſe</hi> of <hi>all-fulneſſe</hi> belonging to the <hi>habituall grace</hi> of <hi>Chriſt, I</hi> ſpeake diſtinctly of <hi>another</hi> matter, <hi>viz.</hi> of the <hi>degreess of</hi> that <hi>grace</hi> diſcernable in the <hi>ſeverall acts</hi> of it.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>The diſtinction between <hi>the habits and acts of virtues or graces</hi> I very well know; but that <hi>love</hi> as a <hi>genus</hi> doth <hi>equally comprehend</hi> the habit and act of love, is a thing which I con<g ref="char:EOLhyphen"/>feſſe that I am yet to learne<g ref="char:punc">▪</g> and if it be a matter of ignorance in me, you muſt blame my Mr Ariſtotle, for he hath miſgui<g ref="char:EOLhyphen"/>ded me herein. He tels me <hi>lib.</hi> 1. <hi>top. c.</hi> 15. <hi>n.</hi> 11. that if a word be predicated of things put in ſeverall predicaments, that then it is <hi>homonymous</hi> in regard of them, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Now the <hi>habit of love</hi> is in the predica<g ref="char:EOLhyphen"/>ment of Quality, the <hi>act</hi> of love in the predicament of Action, and hereupon I cannot but conclude that the predication of love, concerning the <hi>habit,</hi> and the <hi>act,</hi> is onely equivocall, and conſequently <hi>love</hi> no <hi>genus</hi> to them. No <hi>genus</hi> can equally comprehend thoſe things which do differ <hi>toto genere,</hi> and are therefore termed <hi>primo diverſa,</hi> rather then <hi>differentia;</hi> but now ſuch are the habits and the acts of the love of God, and therefore love as <hi>à genus</hi> doth not equally comprehend them as it's <hi>ſpecies.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr HAMMOND.</head>
+               <p n="15">15. This <hi>diſtinction</hi> I thought legible enough before, both in the <hi>Tract</hi> of <hi>Will-worſhip</hi> and in the <hi>Anſwer</hi> to Mr <hi>Caw.</hi>
+               </p>
+               <p n="16">16. In the former the <hi>Refuter</hi> confeſſeth to find it,
+<note place="margin">
+                     <hi>pag.</hi> 259.</note> 
+                  <hi>reciting</hi> theſe words of mine, <hi>It is poſſible for the ſame perſon conſtantly to love God above all, and yet to have higher expreſſions of that love at one one time than another.</hi> Where the <hi>expreſſions at one time,</hi> and at <hi>ano<g ref="char:EOLhyphen"/>ther,</hi> muſt needs referre to the <hi>ſeverall acts</hi> of the ſame, <hi>all-full habituall love.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>The <hi>diſtinction,</hi> which you thought <hi>legible enough before in your tract of will-worſhip,</hi> in which you ſay that I <hi>confeſſe
+<pb n="8" facs="tcp:154228:6"/>to find it,</hi> is ſuch a diſtinction between the <hi>habits</hi> and <hi>acts</hi> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> love, as that love equally comprehends them both as <hi>ſpecies.</hi> Now I utterly deny, that there is any ſuch diſtinction in thoſe words of yours, which I recite: <hi>It is poſsible for the ſame perſon conſtantly to love God above all, and yet to have higher expreſſions of that love at one time than another:</hi> and the reaſon of this my deniall is, becauſe <hi>love,</hi> as a <hi>genus,</hi> doth not comprehend the expreſſions of love equally with the habit. (1) Nothing can as a <hi>genus</hi> be equally predicated of things put in ſeverall predicaments, but the habit of love, and expreſſions of love are put in ſeverall predicaments; therefore love, as a <hi>genus,</hi> doth not equally comprehend them both. (2) The habit of love is formally and intrinſecally love; the expreſſions of love (that is, as you expound your ſelfe §. 21, the <hi>outward expreſsions of the inward acts of</hi> love) are termed love only by extrinſecall de<g ref="char:EOLhyphen"/>nomination from the inward acts of love; and therefore love doth not as a <hi>genus</hi> equally comprehend the habit, and the expreſſions of love. <hi>Raynandus in Mor: diſcip. diſt.</hi> 3. <hi>N.</hi> 144. make smention out of <hi>Gab. Biel</hi> of a diſtinction of love into <hi>affective,</hi> and <hi>effective:</hi> and what is this effective love but the effects and expreſſions of love? but now, that he doth not take this to be a proper diſtribution of a <hi>genus</hi> into it's <hi>ſpecies,</hi> appeareth by what he ſaith out of the ſame Au<g ref="char:EOLhyphen"/>thor concerning the diviſion. <hi>Effectivum dicit ipſum illius àmoris eliciti effectum. Tranſlato quippe cauſae nomine ad effectum, is dicitur amare effectivè, qui non oſtentat in fertilem ac ſterilem amorem; ſed cum ſe dat occaſio, erumpit in fructus dignos amoris. Quam eſſe admodùm impropriam amoris diviſi<g ref="char:EOLhyphen"/>onem fatetur Gabriel, quia amare propriè eſt in ſolâ voluntate tanquam in ſubjecto: ea autem productio effectuum amoris in aliis facultatibus cernitur, eſtque actus tranſiens, non imma<g ref="char:EOLhyphen"/>nents volunt at is.</hi> (3) No one word can as a <hi>genus</hi> equally com<g ref="char:EOLhyphen"/>prehend the efficient and the effect; the habit of love is the efficient cauſe, and the ſincere and cordiall expreſſions of
+<pb n="9" facs="tcp:154228:6"/>love are the effect; therefore love is not predicated of them e<g ref="char:EOLhyphen"/>qually as a <hi>genus.</hi> (4) That which is predicated properly of one thing, and tropically of another cannot equally com<g ref="char:EOLhyphen"/>prehend them both as a <hi>genus;</hi> but love is predicated proper<g ref="char:EOLhyphen"/>ly of the habit of love, tropically, viz. Metonymically of the expreſſions of love, by a metonymie of the efficient for the effect; therefore love as a genus cannot equally comprehend them both.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>D. <hi>HAMMOND.</hi>
+               </head>
+               <p>Onely I gueſſe not what <hi>temptation</hi> he had to chooſe that <hi>expreſſion,</hi> which he there makes uſe of, <hi>viz. [That there D. H. minceth the mat<g ref="char:EOLhyphen"/>ter, and ſpeaketh more cautelouſly]</hi> adding <hi>[that what he there ſaith is nothing to the matter now in hand.]</hi> Whereas 1. thoſe of <hi>Will-worſhip</hi> being the <hi>Firſt papers</hi> written on <hi>that</hi> ſubject, are ſure very <hi>pertinent</hi> to aſcertain him of the meaning of the <hi>latter,</hi> written in <hi>defence</hi> of them.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>That <hi>your firſt papers written on this ſubject are</hi> very imper<g ref="char:EOLhyphen"/>tinent to <hi>aſcertaine me of the meaning of your latter</hi> is eaſily diſ<g ref="char:EOLhyphen"/>cernable unto any man, that will compare both together; how<g ref="char:EOLhyphen"/>ever I ſhall offer unto your conſideration two reaſons, to prove the impertinency of them for that purpoſe. (1) In your firſt papers you ſpeak only of the <hi>expreſsions of love</hi> (i.e.) as you interpret your ſelfe, <hi>the outward expreſsions of the inward acts of love:</hi> in your latter papers you ſpeak of <hi>love it ſelfe:</hi> now the <hi>outward expreſsions of love</hi> are termed love only <hi>ex<g ref="char:EOLhyphen"/>trinſecè, denominativè, &amp; participativè,</hi> from the inward act of love, as ſome ſay the imperate acts of the will, are ſaid to be in this ſenſe only free or voluntary. 2ly, That your firſt papers are very ſhort, in explaining the meaning of your latter, is apparent by this your reply, wherein you extend the <hi>love of God,</hi> which you affirme to be <hi>capable of degrees,</hi> beyond the <hi>out<g ref="char:EOLhyphen"/>ward expreſsions,</hi> unto the very <hi>inward acts of love.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p>And 2ly, the <hi>early cautelous</hi> ſpeaking there, might have made <hi>fur<g ref="char:EOLhyphen"/>ther latter caution</hi> unneceſſary.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <pb n="10" facs="tcp:154228:7"/>
+                  <head>JEANES.</head>
+                  <p>I had thought that in polemicall writings, it had ſtill been needfull for a man to continue on his caution, for otherwiſe he may expoſe himſelfe unto blowes, and knocks, which he never <hi>dream't</hi> off. <hi>Earely cautelous ſpeaking</hi> is no <hi>ſalvo</hi> unto after unwarineſſe.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p>And 3ly, I could not be ſaid to <hi>mince,</hi> (which to <hi>vulgar</hi> eares ſignifies to <hi>retract</hi> in ſome degrees, what I had ſaid before,) and a<g ref="char:EOLhyphen"/>gaine <hi>ſpeak more cautiouſly,</hi> when that was the <hi>firſt</hi> time of my ſpeak<g ref="char:EOLhyphen"/>ing of it.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>I am very loath to enter into a Conteſt with ſo great a Cri<g ref="char:EOLhyphen"/>tick, touching the meaning of a word, however I ſhall adven<g ref="char:EOLhyphen"/>ture to ſay thus much, that a man may be ſaid to <hi>mince</hi> a mat<g ref="char:EOLhyphen"/>ter, and <hi>ſpeak more cautiouſly</hi> at the firſt time of ſpeaking of it, than afterwards at a ſecond time of ſpeaking of it: neither ſhall I be beaten from this mine aſſertion, by your bare and naked affirmation, that to <hi>mince, to vulgar eares, ſignifieth to retract in ſome degrees what hath been ſaid before:</hi> for I appeale to both <hi>vulgar and learned</hi> eares, whether or no we may not ſay tru<g ref="char:EOLhyphen"/>ly of divers erroneous perſons, that in the firſt broaching of their errors they <hi>mince</hi> the matter, and ſpeak more <hi>cautelouſly</hi> than afterwards, when they are fleſhed and incouraged with ſucceſſe.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p n="17">17. Mean. while it is <hi>manifeſt,</hi> and his own <hi>confeſſion,</hi> that <hi>there theſe were my words,</hi> and thoſe ſo <hi>cautious,</hi> that <hi>this</hi> ſenſe of the words which he undertakes to <hi>refute,</hi> could not be <hi>affixt</hi> on them. And this I ſhould have thought ſufficient to have preſerved my <hi>innocence,</hi> and <hi>forſtalled</hi> his <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of <hi>Confutation.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>Suppoſe that in your tract of will-worſhip, theſe were your words, and withall that they were ſo <hi>cautious</hi> that this ſenſe of the words, which I undertake to refute, could not be affixt on them, yet this is nothing at all unto the purpoſe, and con<g ref="char:EOLhyphen"/>tributes
+<pb n="11" facs="tcp:154228:7"/>nothing to the clearing of your <hi>innocence, and fore<g ref="char:EOLhyphen"/>ſtalling my uſe of confutation;</hi> and the reaſon hereof is very e<g ref="char:EOLhyphen"/>vident, becauſe that which I undertook to refute, was affixt by me, not on theſe your ſo <hi>cautelous words</hi> in your tract of will-worſhip, but on a paſſage in your anſwer to Mr. <hi>Cawdrey.</hi> Indeed I cenſured thoſe your words in themſelves imperti<g ref="char:EOLhyphen"/>nent unto your matter in hand, and withall proved them to be ſo. But if you had gone no farther then theſe words, you ſhould not have heard from me touching this ſubject; for time is more pretious with me, than to waſt it, in medling meerely with the impertinencies of any mans diſcourſe.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p n="18">18. But the <hi>anſwer</hi> to <hi>M. C.</hi> which occaſioned it was, I think, as <hi>cautious</hi> alſo, 1. In the words recited by the <hi>Refuter, viz.</hi> that <hi>Chriſt himſelfe was more ardent in one act of prayer than in another.</hi> 2. In the words following in that <hi>anſwer,</hi> but not <hi>recited</hi> by him, <hi>viz.</hi> that the <hi>ſincerity of this or that virtue expreſt in this or that performance, is it we ſpeake of, when we ſay it conſiſts in a latitude, and hath degrees;</hi> where the <hi>[this or that performance] are</hi> certainly <hi>Acts</hi> of the <hi>virtue,</hi> con<g ref="char:EOLhyphen"/>ſiſting in a <hi>latitude,</hi> and the having <hi>degrees (viz.</hi> in that <hi>latitude</hi>) no way implies him that hath <hi>virtue</hi> in that <hi>latitude (viz. Chriſt)</hi> to <hi>want</hi> at preſent, and in that ſenſe to be <hi>capable of farther degrees.</hi>
+               </p>
+               <p n="19">19. I am willing to look as <hi>jealouſly</hi> as I can on any paſſage of my own, which falls under any mans <hi>cenſure;</hi> and therefore finding no<g ref="char:EOLhyphen"/>thing in the words (<hi>ſet down</hi> by him as the <hi>ground</hi> of the <hi>Refutation</hi>) which is any way <hi>capable</hi> of it, I have reviewed the <hi>whole ſection,</hi> and weighed every <hi>period,</hi> as <hi>ſuſpicioouſly</hi> as I could; to <hi>obſerve</hi> whether I could <hi>draw</hi> or <hi>wreſt</hi> that <hi>conſequence</hi> from any <hi>other</hi> paſſage, not <hi>reci<g ref="char:EOLhyphen"/>ted</hi> by him.</p>
+               <p n="20">20. And I find none in <hi>any</hi> degree <hi>liable,</hi> except it ſhould be this in the beginning of the <hi>Sect.</hi> Where ſetting down the <hi>argument,</hi> as it lay in the <hi>Tr. of Will<g ref="char:punc">▪</g> wor.</hi> I ſay <hi>tis poſſible for the ſame perſon which ſo loves God</hi> (i. e. <hi>with all the heart) to love him, and expreſſe that love more intenſely at one time than another, as appeared by the example of Chriſt.</hi>
+               </p>
+               <p n="21">21. And if this be thought <hi>capable</hi> of <hi>miſapprehenſion,</hi> by reaſon of the [and] <hi>disjoyning love</hi> from the <hi>expreſſions</hi> of it, and ſo the <hi>expreſſions</hi> belonging to the <hi>acts,</hi> the <hi>love</hi> be deemed to denote the <hi>habituall love;</hi>
+                  <pb n="12" facs="tcp:154228:8"/>I muſt onely ſay, that is a <hi>miſapprehenſion,</hi> for that by <hi>loving with all the heart,</hi> in <hi>the firſt</hi> place, I certainly meant the <hi>ſincere habit</hi> of <hi>Love,</hi> by <hi>love</hi> in the <hi>latter</hi> place, the inward <hi>acts</hi> of <hi>love,</hi> and by the <hi>expreſſions</hi> of <hi>love,</hi> the <hi>outward expreſſions</hi> of thoſe <hi>inward acts,</hi> and o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>thoſe acts</hi> onely I ſpeak, and of <hi>thoſe expreſſions,</hi> when I ſay they are <hi>more intenſe at one time than another.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>I ſhall here briefly repreſent unto you that which made me think you guilty of detracting from the <hi>all-fulneſs of Chriſts habituall grace,</hi> and referre you for confirmation here of unto what I have ſaid in the beginning of this my diſcourſe. The undeniable conſequence of what you ſay in anſwer unto Mr. <hi>Cawdrey</hi> is, as I have proved, <hi>that Chriſts love of God was capa<g ref="char:EOLhyphen"/>ble of farther degrees.</hi> Now hereupon I thus reaſoned in my mind, you were to be underſtood either of the habit, or of the inward act of love, for as for the outward expreſſions of love, it is without diſpute, that they cannot be ſaid to be love pro<g ref="char:EOLhyphen"/>perly, but only by a trope; if you ſhould have ſaid that you ſpake of the habit of love, then you would have expreſly im<g ref="char:EOLhyphen"/>pugned the all-fulneſſe of Chriſts habituall grace; and if you ſhould ſay, as you now do, that you meant the inward acts of love; why then I concluded that you would even hereby <hi>im<g ref="char:EOLhyphen"/>plyedly and by conſequence</hi> have oppoſed the perfection of Chriſts habituall grace, becauſe the intenſion of the inward acts of love proceedeth from the intenſion of the habit of love, and is therefore proportioned unto it: but of this more fully in the place above mentioned. Thus having ſhewed you what invited me unto my uſe of confutation, I ſhall paſſe over the three other ſections, which you your ſelfe I preſume would have ſpared, if you had been privy unto that which I now ac<g ref="char:EOLhyphen"/>quaint you with.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p n="22">22. The word <hi>love,</hi> as I ſaid, is a <hi>genus,</hi> equally comprehending the <hi>two ſpecies, habituall</hi> and <hi>actuall love,</hi> and equally applicable to ei<g ref="char:EOLhyphen"/>ther of the <hi>ſpecies,</hi> to the <hi>acts</hi> as well as the <hi>habit</hi> of <hi>love.</hi> And ſo when <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſay <hi>love</hi> is <hi>capable</hi> of <hi>degrees,</hi> the meaning is cleare, The <hi>genericall</hi> word
+<pb n="13" facs="tcp:154228:8"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove reſtrained to the <hi>latter ſpecies, is</hi> conſidered in reſpect of the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts</hi> of <hi>love, gradually</hi> differenced one from the other, is in that <hi>re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pect, capable of degrees,</hi> both <hi>inwardly</hi> and in <hi>outward expreſſions:</hi> that <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct</hi> of <hi>love,</hi> that poured out and expreſt it ſelfe in the <hi>more ar<g ref="char:EOLhyphen"/>dent prayer,</hi> was a more <hi>intenſe act</hi> of <hi>love,</hi> than another <hi>act</hi> of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſame <hi>habituall love,</hi> which did not ſo <hi>ardently expreſſe</hi> it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elfe.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>That love is not a <hi>genus</hi> equally comprehending <hi>habituall</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <hi>actuall</hi> love, as its two <hi>ſpecies,</hi> I have already proved by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his argument, becauſe they are in ſeverall <hi>predicaments;</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abituall love in the <hi>predicament</hi> of <hi>qualitie,</hi> and <hi>actuall</hi> in the <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>redicament</hi> of <hi>action.</hi> There are, I know, divers great <hi>Philoſo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hers</hi> and <hi>Schoolemen</hi> that make all <hi>immanent acts,</hi> and conſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uently all <hi>inward acts</hi> of love to be <hi>qualities;</hi> they are, ſay <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey, only <hi>grammaticall actions,</hi> not <hi>metaphyſicall actions</hi> in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <hi>predicament of action;</hi> but this opinion is <hi>untrue</hi> in <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſelfe, and no waies <hi>advantageous</hi> unto your cauſe in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>and.</p>
+                  <p n="1">1. It <hi>is untrue in</hi> it ſelfe; and to confirme this, I ſhall offer <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your conſideration two arguments out of <hi>Scheibler,</hi> which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earely prove immanent acts to be true, proper, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redicamentall actions, in the predicament of Action. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> univerſum id ſine incommodo poteſt dici actio, quod ſufficit <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> conſtituendam cauſalitatem efficientis: Atqui dantnr cauſae <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ficientes, quibus non convenit alia cauſalitas, quam que <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> actio immanens: Ergo actio immanens vere eſt actio. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ropoſitio patet, quia praedicamentum actionis ponitur ad <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>candam cauſalitem efficientis cauſae in genere entium, ut <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ipra diſputatum, explicando diviſionem praedicamentorum. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t confirmatur quod actio ſit adaequata cauſalitas effi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>entis ut ſupra viſum eſt, lib.</hi> 1. <hi>c.</hi> 12. <hi>Aſſumptiopatet. Nam <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mo abſolutè eſt cauſa efficiens in quantum denominatnr <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dere aut intelligere. Et tamen iſti ſunt actus immanen<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> That which is the cauſality of an efficient cauſe is
+<pb n="14" facs="tcp:154228:9"/>y a true and predicamentall action in the predicament of actions but immanent acts are the cauſalities of efficient cauſes, and therefore proper and predicamentall actions. <hi>Deinde ad actus immanentes ſunt potentiae activae, ſed potentiae activae ſunt per ordinem ad veras actiones, ergo actus immanentes ſunt verè actiones. Et ſi hi ſolum titulotenus ſunt actiones Ergo etiam potentiae illae activae titulotenus ſunt potentiae activae.</hi> That which terminates and actuates an active power is a prope<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and predicamentall action: but every immanent act termi<g ref="char:EOLhyphen"/>nates and actuates an active power; and therefore every im<g ref="char:EOLhyphen"/>manent act is a proper and predicamentall action, <hi>Met. lib.</hi> 2. <hi>cap</hi> 10. <hi>n.</hi> 27. You may perhaps ſlight <hi>Scheibler,</hi> as a trivial author, but I urge his <hi>reaſons,</hi> not his <hi>authority,</hi> &amp; if you can an<g ref="char:EOLhyphen"/>ſwer his reaſons, you may ſpeake your pleaſure of him and o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me for alleadging of him. But I can preſſe you with the autho<g ref="char:EOLhyphen"/>rity of an author far greater than <hi>Scheibler,</hi> our great <hi>Maſter Ariſtotle,</hi> of whom you make ſomewhere in your writings <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>norable mention; he <hi>l.</hi> 10. <hi>Ethic. c.</hi> 3. tells us roundly, that the o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>perations of virtues, &amp; even happineſſe it ſelfe, are not qualities<g ref="char:punc">▪</g> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, but theſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are immanent acts, &amp; therefore in his opinion immanent acts a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> not qualities. But, ſecondly, ſuppoſe this opinion were true i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it ſelfe, yet will it no waies advantage your cauſe, for the pa<g ref="char:EOLhyphen"/>trons of it rang <hi>immauent acts</hi> under the firſt <hi>ſpecies of</hi> quality and then they are either <hi>dispoſitions</hi> or <hi>habits.</hi> If you ſay the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are <hi>diſpoſitions,</hi> as moſt of the above mentioned ſchooleme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hold them to be; againſt this I <hi>object,</hi> that however the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may be ſo in other men, yet they cannot be ſo in Chriſt for a diſpoſition carrieth in it's notion inchoation, and im<g ref="char:EOLhyphen"/>perfection, and therefore to attribute it unto Chriſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to throw an apparent diſhonour upon him. If you ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they are <hi>habits,</hi> why then, you cannot deny them to be <hi>gracio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> habits,</hi> and ſo you will fall upon that opinion, of which in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> reply, you ſo ſtudiouſly endeavour to acquit your ſelfe, vi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that <hi>the ſame habits of grace in Chriſt may be more in<g ref="char:EOLhyphen"/>tenſe
+<pb n="15" facs="tcp:154228:9"/>y at one time than another, and conſequently that his habitu<g ref="char:EOLhyphen"/>all grace was not alwaies full and perfect.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p n="23">23. I ſhall explain this by the <hi>Refuters</hi> own <hi>Confeſſion.</hi> The <hi>death of Chriſt,</hi> ſaith he, <hi>was an higher expreſſion of Chriſts love of us, than his poverty, hunger or thirſt.</hi> To this I ſubjoyne, that ſuch as the expreſſion was, ſuch was the <hi>act</hi> of <hi>inward love,</hi> of which that was an <hi>expreſſion:</hi> it being certain that each of theſe <hi>expreſſions</hi> had an <hi>act</hi> of <hi>internall love,</hi> of which they were ſo many <hi>proportionably different expreſſions;</hi> And from hence I ſuppoſe it unavoidably <hi>conſequent,</hi> that that <hi>act</hi> of <hi>inter<g ref="char:EOLhyphen"/>nall love,</hi> expreſt by his <hi>dying</hi> for us, was ſuperior to thoſe <hi>former acts,</hi> which onely expreſt themſelves in his <hi>poverty,</hi> and ſo the ſame perſon that <hi>loved ſincerely,</hi> did alſo <hi>love,</hi> and <hi>expreſſe that love more intenſly at one time than at another,</hi> which was the very thing I had ſaid in <hi>another</hi> inſtance. But this I have added <hi>ex abundanti</hi> more than the <hi>Refuters</hi> diſcourſe <hi>required</hi> of me.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>If you had repeated that which you call my confeſſion full and intire, as it lay in my book, the impartiall and unpreju<g ref="char:EOLhyphen"/>diced reader would ſoone have diſcerned that there was in it nothing that made for your advantage: my words at large are theſe, <hi>There may be a graduall difference in the expreſsions of the ſame love for degree. Chriſts death for us was an higher expreſsion of his love of us, than his poverty, hunger, thirſt &amp;c. and yet they might proceed from a love equally intenſe.</hi> Now Sir have you ſaid any thing to prove, that they could not pro<g ref="char:EOLhyphen"/>ceed from a love equally intenſe? you ſeeme indeed, moſt ve<g ref="char:EOLhyphen"/>hemently and affectionately to affirme that they could not; but you muſt pardon me, if I entertaine not your <hi>vehement aſſeverations,</hi> as <hi>ſolid arguments,</hi> as if they were <hi>propoſitiones per ſe notae.</hi> Pray Sir, review this ſection, and put your argu<g ref="char:EOLhyphen"/>ment into ſome forme; if you can make good that it contain<g ref="char:EOLhyphen"/>eth any diſproofe of what I have ſaid, unleſſe <hi>begging of the queſtion</hi> be argumentative, you ſhall have my hearty leave to triumph over me as you pleaſe; however untill then, I ſhall take your words aſunder, and examine every paſſage in them.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <pb n="16" facs="tcp:154228:10"/>
+               <head>D. <hi>HAMMOND.</hi>
+               </head>
+               <p>To this I ſubjoyn that ſuch as the expreſſion was, ſuch was the <hi>act</hi> of <hi>inward love,</hi> of which that was an <hi>expreſſion,</hi> yet being certain that each of theſe <hi>expreſſions</hi> had an <hi>act</hi> of <hi>internall love,</hi> of which they were ſo many <hi>proportionably different expreſſions.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>That each of theſe expreſſions had an act of <hi>inward love,</hi> of which they were ſo many <hi>different expreſsions,</hi> is an obvious truth, but impertinent unto the matter in hand, unleſſe you can prove that they were of neceſſity equall in point of inten<g ref="char:EOLhyphen"/>ſion; and the proofe of this you have not hitherto ſo much as attempted.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p>And from hence I ſuppoſe it unavoidably <hi>conſequent,</hi> that that <hi>act</hi> of <hi>internall love,</hi> expreſt by his <hi>dying</hi> for us, was ſuperior to thoſe <hi>for<g ref="char:EOLhyphen"/>mer acts,</hi> which onely expreſt themſelves in his <hi>poverty,</hi> and ſo the ſame perſon that <hi>loved ſincerely,</hi> did alſo <hi>love,</hi> and <hi>expreſſe that love more intenſly at one time than at another,</hi> which was the very thing I had ſaid in <hi>another</hi> inſtance. But this I have added <hi>ex abundanti</hi> more than the <hi>Refuters</hi> diſcourſe <hi>required</hi> of me.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>
+                     <hi>From hence:</hi> whence I pray? if from the words immediate<g ref="char:EOLhyphen"/>ly foregoing, then your argument ſtands thus. <hi>Every of theſe expreſsions had an act of internall love, of which they were ſo ma<g ref="char:EOLhyphen"/>ny proportionably different expreſsions: therefore that act of in<g ref="char:EOLhyphen"/>ternall love expreſt by his dying for us, was ſuperior to theſe for<g ref="char:EOLhyphen"/>mer acts, which onely expreſt themſelves in his poverty.</hi> And here I muſt profeſſe that the reaſon of your conſequence is to me inviſible, and I ſhall never acknowledg your infe<g ref="char:EOLhyphen"/>rence legitimate untill you drive me hereunto, by reducing your <hi>Enthymeme</hi> unto a <hi>Syllogiſme;</hi> but perhaps there may be ſome myſtery in the word <hi>proportionably,</hi> and your meaning may be, that theſe different expreſſions in regard of intenſion muſt be proportioned exactly unto their inward reſpective acts of love equall or paralell unto them; and if this by your meaning, then your argument is guilty of that <hi>fallacy,</hi> which
+<pb n="17" facs="tcp:154228:10"/>is called <hi>petitio principii.</hi> It is my deſire and purpoſe to have faire wars with you, and my pen ſhall not drop a diſreſpe<g ref="char:EOLhyphen"/>ctive ſyllable of you; but yet I am reſolved to ſwallow none of your proofeleſſe dictates: ſeeing you have entered the liſts with me, you muſt not think me irreverent and ſaucy, if (as the ſouldiers ſpeak) I diſpute every inch of ground with you, and be ſo bold as to call upon you for the proofe of whatſoever you aſſert touching that which is in controverſy betwixt us.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p n="24">24. It now onely remaines, that I conſider whether this <hi>Refuter</hi> have in the <hi>proceſſe</hi> of his <hi>diſcourſe</hi> added any thing, wherein I may be any whit <hi>concerned.</hi>
+               </p>
+               <p n="25">25. And 1. ſaith he, <hi>the falſehood of ſuch an aſſertion is evident from the point there handled and confirmed, the abſolute fulneſſe of Chriſts grace, which by the generall conſent of the Fathers and School-men was ſuch, as that it excluded all intenſive growth.</hi>
+               </p>
+               <p n="26">26. But to this the <hi>reply</hi> will be eaſily <hi>foreſeen,</hi> from the <hi>premiſſes,</hi> that as the point by him <hi>handled and confirmed</hi> was diſtinctly the <hi>all-fulneſſe of habituall grace in Chriſt,</hi> ſo his <hi>proofs</hi> of it by the <hi>conſent of Fathers and School-men</hi> belong ſtill to that <hi>fulneſſe of habituall grace.</hi>
+               </p>
+               <p n="27">27. Witneſſe one for all, <hi>Aquinas <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r.</hi> 3. <hi>qu.</hi> 7. <hi>art.</hi> 12. <hi>ad ſecun<g ref="char:EOLhyphen"/>dum. Licet virtus divina poſſit facere aliquid majus &amp; melius quàm ſit ha<g ref="char:EOLhyphen"/>bitualis gratia Chriſti, non tamen—though the divine power may make ſome<g ref="char:EOLhyphen"/>what greater and better than is the habituall grace of Chriſt, yet</hi>—ſo 'tis plain he ſpeaks of the <hi>fulneſſe</hi> of the <hi>habituall grace.</hi> And <hi>ad tertium. In ſapientia &amp; gratia aliquis proficere poteſt dupliciter; uno modo ſecundùm ipſos habitus ſapientiae &amp; gratiae augmentatos, &amp; ſic Chriſtus in eis non pro<g ref="char:EOLhyphen"/>ficiebat. Alio modo ſecundùm effectus, in quantum aliquis ſapientiora &amp; vir<g ref="char:EOLhyphen"/>tuoſiora opera facit, &amp; ſic Chriſtus proficiebat ſapientiâ &amp; gratiâ; ſicut &amp; aetate, quia ſecundùm proceſſum aetatis perfectiora opera faciebat, — &amp; in his quae ſunt ad Deum, &amp; in his quae ſunt ad homines. One may increaſe in wiſdome and grace two waies, one way according to the habits of them in<g ref="char:EOLhyphen"/>creaſed, and ſo Chriſt increaſed not; another way, according to the effects; when any doth more wiſe and virtuous workes; and ſo Chriſt increaſed in Wiſdome and Grace, as he did in age, becauſe according to the proceſſe of his age, he did more perfect workes, and that both in things belonging to God, and men alſo.</hi>
+               </p>
+               <pb n="18" facs="tcp:154228:11" rendition="simple:additions"/>
+               <p n="28">28. And thus are the <hi>School-men</hi> underſtood by the <hi>Refuter</hi> him<g ref="char:EOLhyphen"/>ſelfe, in his producing their <hi>teſtimonies,</hi> as appeares by the <hi>expreſſe</hi> words [<hi>habituall grace</hi> p. 260. lin. <hi>penult</hi> and <hi>holineſſe,</hi> and the <hi>Image of God in him</hi>] p. 261. lin. 13. And ſo 'tis moſt cleare, their <hi>conſent</hi> belongs not, even in his <hi>own</hi> opinion, to the matter I had, and have in hand, no way <hi>denying</hi> but, <hi>aſſerting</hi> a <hi>capacity</hi> of <hi>degrees</hi> among the <hi>acts</hi> of <hi>Chriſts</hi> love of <hi>God,</hi> and the <hi>expreſſions</hi> of it.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p n="1">1. They that can ſo eaſily foreſee this your reply, may with as little difficulty foreknow the objection againſt it, to wit, that the <hi>intenſion of Chriſts actuall grace is exactly propor<g ref="char:EOLhyphen"/>tioned unto that of his habituall grace;</hi> and therefore your de<g ref="char:EOLhyphen"/>niall of the perpetuall all-fulneſſe of Chriſts actuall grace, is a virtuall and implied deniall of the all-fulneſſe of Chriſts ha<g ref="char:EOLhyphen"/>bituall grace: and how you are provided of an anſwer here<g ref="char:EOLhyphen"/>unto, the event will ſhew. It is not then ſo cleare as you pre<g ref="char:EOLhyphen"/>tend, that the teſtimony of the Schoole-men belongs not, even in mine own opinion, to the matter you had and have in hand.</p>
+                  <p n="2">2. As for that place you quote out of <hi>Aquinas,</hi> it is plaine that therein by the effects of wiſedome and grace are meant ſuch as are outward, for theſe are moſt properly termed works. And beſides, an <hi>intenſive increaſe</hi> in the inward acts of wiſe<g ref="char:EOLhyphen"/>dome and grace would argue and preſuppoſe an <hi>intenſive in<g ref="char:EOLhyphen"/>creaſe</hi> in the very habits themſelves.</p>
+                  <p n="3">3. Whereas you ſay, in the cloſe of <hi>Section the</hi> 28, that the conſent of the <hi>Schoole-men</hi> is no waies denying, but aſ<g ref="char:EOLhyphen"/>ſerting a capacity of degrees amongſt the acts of Chriſts love of God, <hi>i. e.</hi> of the inward acts thereof. There will be lit<g ref="char:EOLhyphen"/>tle ſenſe in your words in themſelves, and leſſe pertinency unto the matter in hand, unleſſe your meaning be, as you elſe<g ref="char:EOLhyphen"/>where expreſſe your ſelfe, that the inward acts of Chriſts love of God were more intenſe at one time, than at another: and if this be your meaning, I muſt needs aſſume the boldneſſe to tell you, that no ſuch matter is viſible unto me in any of the
+<pb n="19" facs="tcp:154228:11" rendition="simple:additions"/>Schoole-men. But perhaps you may meane ſuch <hi>Schoole-men,</hi> as ſuch a <hi>Puny,</hi> as I, never ſaw or heard of; however you can<g ref="char:EOLhyphen"/>not expect beleife, untill you produce their teſtimonies: And I ſhall entreat you to alleadge ſuch, as may be had in <hi>Pauls-church-yard,</hi> or at leaſt in the <hi>Library at Oxford.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr <hi>HAMMOND.</hi>
+               </head>
+               <p n="29">29. <hi>Secondly, he will heare the Doctors objection, and conſider of what weight it is.</hi>
+               </p>
+               <p>Objection? againſt what? againſt the <hi>fulneſſe of habituall grace in Chriſt?</hi> ſure never any was by me urged againſt it. And he cannot now <hi>think</hi> there was. The degrees of <hi>intenſeneſſe</hi> obſervable in the ſeverall <hi>acts of Chriſts love,</hi> his <hi>praying</hi> more <hi>ardently at one time than another,</hi> was all that <hi>I</hi> concluded from that <hi>text, Luk.</hi> 22.44. and that is nothing to his <hi>habituall love.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>That this objection was not intended by you againſt the fulneſſe of Chriſts habituall grace, upon your proteſtation, I readily be<g ref="char:EOLhyphen"/>lieve; but, that by conſequence it reacheth it, I thus make good. That objection which is urged againſt the perpetuall allfulneſſe &amp; perfection of Chriſts actuall love, the inward acts of his love of God, ſtrikes againſt the perpetuall allfulneſſe &amp; perfection of his habitual love; becauſe the degrees of the inward acts of his love of God are commenſurate unto the degrees of his habi<g ref="char:EOLhyphen"/>tuall love. For they have no degrees at all, but <hi>ſecundariò,</hi> in regard of the habit of his love: but now this objection is urged by you againſt the perpetuall all-fulneſſe and per<g ref="char:EOLhyphen"/>fection of his actuall love, the inward acts of his love; for it is brought to prove that the inward acts of Chriſts love were more intenſe at one time than another, and a greater intenſion preſuppoſeth remiſſion and imperfection; for <hi>intenſio eſt eductio rei intenſae de imperfecto ad perfectum,</hi> as <hi>Aquinas</hi> very often. Therefore this objection ſtrikes againſt the perpetuall fulneſſe and perfection of Chriſts actuall love of God, and ſo conſequently againſt the perpetuall fulneſſe and perfection of his habituall love.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <pb n="20" facs="tcp:154228:12" rendition="simple:additions"/>
+               <head>Dr <hi>HAMMOND.</hi>
+               </head>
+               <p n="30">30. But even to this he is pleaſed to frame <hi>Anſwers</hi> (though I hope his <hi>doctrine</hi> of the <hi>fulneſſe of Chriſts habituall grace</hi> be no way <hi>concern'd</hi> in it) and to theſe I ſhall briefly attend him, as my <hi>laſt</hi> ſtage in this no very long voyage.</p>
+               <p n="31">31. <hi>And</hi> 1. <hi>ſaith he, the vulgar tranſlation renders <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, pro<g ref="char:EOLhyphen"/>lixius;</hi> and <hi>if this verſion be good, then there is no place for the Doctors objection.</hi>
+               </p>
+               <p>But though I ſeeke no <hi>advantage</hi> by that <hi>vulgar</hi> reading, yet thinking it a duty of <hi>reverence</hi> to that <hi>verſion,</hi> to take leave <hi>civilly</hi> whenſoever I <hi>depart</hi> from it (wherein I have the ſuffrage of <hi>Proteſtants as learned</hi> in both the <hi>Languages Hebrew</hi> and <hi>Greek,</hi> as any) and that I may to the utmoſt obſerve the <hi>Refuters</hi> ſteps, I ſhall not utterly <hi>reject</hi> it.</p>
+               <p n="32">32. Tis certain <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth primarily ſignifie <hi>extenſion,</hi> and that properly belongs to <hi>length,</hi> and ſo the <hi>comparative</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to a <hi>greater degree</hi> of that <hi>length.</hi> And if it be granted that it ſo ſignifie here, there will yet be <hi>place equally for my conclu<g ref="char:EOLhyphen"/>ſion.</hi>
+               </p>
+               <p n="33">33. For in every <hi>act</hi> of <hi>Prayer,</hi> be it but the <hi>ſhorteſt</hi> ejaculation ſent out by <hi>Chriſt, I</hi> ſuppoſe (and my <hi>Refuter</hi> muſt not <hi>doubt</hi> of it) there was ſome <hi>degree</hi> of <hi>ardency</hi> or <hi>intenſion;</hi> And then ſure according to the <hi>multiplying</hi> of thoſe <hi>acts lengthening</hi> that <hi>prayer,</hi> there muſt ſtill in <hi>Chriſt,</hi> (I ſay not in every one of us) be a <hi>proportionable</hi> multiplication of thoſe <hi>degrees,</hi> and ſo <hi>parallel</hi> to a greater <hi>length,</hi> a greater <hi>intenſion.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>The anſwer here is very eaſy and obvious; the <hi>intenſion</hi> of the degrees of the inward acts of Chriſts love of God may be ſaid to be greater either in regard of the <hi>number,</hi> or in re<g ref="char:EOLhyphen"/>ſpect of the <hi>intenſive perfection</hi> and excellency of thoſe de<g ref="char:EOLhyphen"/>grees; according to the lengthning of Chriſts prayer there is a multiplying of inward acts of his love, and proportionably a multiplication of the degrees of his love, and conſequently a greater intenſion of thoſe degrees, in regard of their number, but not in reſpect of their <hi>intenſive</hi> perfection, or excellency. For in Chriſt let them be never ſo much multiplied, they may be and ſtill are of an equall intenſive perfection, and excel<g ref="char:EOLhyphen"/>lency, one is not more intenſe than another; and ſo if this rea<g ref="char:EOLhyphen"/>ding
+<pb n="21" facs="tcp:154228:12" rendition="simple:additions"/>be retained, there will be no place for your concluſion; That the inward acts of Chriſts love are more intenſe at one time than another, unleſſe you will make inte<g ref="char:cmbAbbrStroke">̄</g>ſion to be a meere coacervation of <hi>ho<g ref="char:cmbAbbrStroke">̄</g>o geneous</hi> degrees <hi>(i.e)</hi> degrees altogether like: the abſurdity of which you may ſee in <hi>Suarez Met. diſ.</hi> 46. <hi>&amp; Pet. Hurtado de Mendoza. de Gener. &amp; Corrupt. diſp.</hi> 5. §. 6.</p>
+                  <p>Sir, here I am very confident that you preſumed very much on my ignorance, otherwiſe you would never have gone about to have impoſed upon me ſo poore and ſorry a ſophiſme, as is in the equivocation of the word <hi>greater,</hi> which is eaſily diſcoverable by a <hi>freſh-man:</hi> for that you your ſelfe ſhould be ignorant of ſuch an ordinary <hi>homonymy,</hi> I am loath to harbour ſuch diſhonourable thoughts of your abilities in phi<g ref="char:EOLhyphen"/>loſophy as to imagine.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr <hi>HAMMOND.</hi>
+               </head>
+               <p n="34">34. This is <hi>cleare,</hi> and <hi>I</hi> need not adde, what elſe I might, that the ve<g ref="char:EOLhyphen"/>ry <hi>multiplication</hi> of <hi>more acts</hi> of any <hi>virtue,</hi> ſuppoſing it equally <hi>ſincere</hi> in the <hi>habit,</hi> and ſuch is the length of prayer, when it is in Chriſt, is more <hi>valuable</hi> in the ſight of <hi>God,</hi> and that argues it more <hi>excellent,</hi> than the <hi>ſmaller</hi> number of thoſe acts would be, and proportionably more <hi>abundantly rewarded</hi> by him, who rewardeth every man not only according to the <hi>ſincerity</hi> of his <hi>heart,</hi> but alſo <hi>ſecundum opera,</hi> according to the <hi>multiplied acts</hi> or <hi>workes,</hi> the more abundant labour proceeding from this <hi>ſincerity.</hi> And ſo that will ſuffice for his firſt anſwer.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p n="1">1. This is an utter impertinency unto that which is in de<g ref="char:EOLhyphen"/>bate between us. For ſuppoſe that the very multiplication of more inward acts of any virtue in Chriſt is more valuable in the ſight of God, and ſo more excellent than the ſmaller number of thoſe acts would be; yet this ſuppoſition will ne<g ref="char:EOLhyphen"/>ver bring you to this concluſion, that one inward act of Chriſts love of God may be more intenſe than another; and my reaſon is, becauſe in all theſe inward acts of Chriſts love of God (and we may ſay the ſame of the inward acts of
+<pb n="22" facs="tcp:154228:13" rendition="simple:additions"/>other virtues and graces) there may be no graduall diſſimili<g ref="char:EOLhyphen"/>tude.</p>
+                  <p n="2">2. A great part of the <hi>Schoolemen</hi> will tell you, that the morall value of one ſingle act of any virtue in Chriſt was in<g ref="char:EOLhyphen"/>finite, and in the multiplication of more acts there is but an infinite value: now one infinite cannot be greater than another infinite in the ſame kind, wherein it is infinite, and hereupon they conclude that the multiplication of acts makes nothing in Chriſt unto an intenſive addition of value<g ref="char:punc">▪</g> the value of one act is intenſively as great as that of more acts<g ref="char:punc">▪</g> The firſt act of Chriſt (ſaies <hi>Albertinus) habet totam latitudi<g ref="char:EOLhyphen"/>nem intenſivam valoris moralis, ct ſi non adaequet totam lati<g ref="char:EOLhyphen"/>tudinem extenſivam: Corol. tom.</hi> 1.150. <hi>n.</hi> 61. And of this you have a reaſon. <hi>p.</hi> 145. this act is <hi>à perſonâ divinâ, tanquam á forma intrinſecâ; quae intrinſecè denominatur operans, ab<gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ipſâ operatione quae eſt in naturâ humanâ, et ut ſic eſt illimitabilis àconditionibus actûs.</hi> Unto <hi>Albertinus</hi> I ſhall ſubjoine <hi>Suarez</hi> who ſpeakes to the ſame purpoſe <hi>in tertiam par. Thom. Tom.</hi> 1. <hi>diſput.</hi> 4. <hi>ſect.</hi> 4. <hi>pag.</hi> 49. <hi>Plura opera Chriſti ſunt quidem ex<g ref="char:EOLhyphen"/>tenſivè plura merita; intenſivè tamen non eſt plus valoris in multis quam in uno; ut, ſi eſſent plures calores infinitè intenſi, eſſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> quidem plures, non tamen efficerent unum intenſiorem; &amp; par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ratione, ſi in uno opere Chriſti, quod ſucceſſivè per partes fiebat partes cum toto comparemus, intenſivè tantus valor erat in quâlibet parte, ſicut in toto opere, &amp; in uno momento, ſicut in longo tempore; quia forma à quà erat valor, tota erat in toto, &amp; tota in ſingulis partibus.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr <hi>HAMMOND.</hi>
+               </head>
+               <p n="35">35. <q rend="margQuotes">But then, 2. <hi>Saith he,</hi> ſuppoſe we ſtick unto our own tranſtation, yet the place may fairely be ſo interpreted, as that it may no waies advantage the purpoſe of the Doctor. For <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, more earneſtly, may be conſidered in reference unto either the object unto whom he prayed, God; or the matter againſt which he prayed, the evills with which he conflicted in his agony.</q>
+               </p>
+               <pb n="23" facs="tcp:154228:13"/>
+               <p n="1">1. Then, ſaith he, he did not in his agony pray more ear<g ref="char:EOLhyphen"/>neſtly than at other times, if we conſider his prayer in refe<g ref="char:EOLhyphen"/>rence unto the object, unto whom it was, God. The religion, and inward worſhip of his prayer, was for degrees alwaies alike equal. His truſt and dependance upon God, love of zeal and devotion towards God, from which all his prayers flowed, were not at one time more intenſe than at another.</p>
+               <p>But now 2. He prayed more earneſtly in his agony than at other times, in regard of the matter, againſt which he prayed. the evills which he encountred with, which if they were not greater, then thoſe that he deprecated in the former prayer, <hi>v.</hi> 42. yet at leaſt they made a greater impreſſion upon his hu<g ref="char:EOLhyphen"/>mane nature; for they put him into a bloody ſweat. Being in an agony he prayed more earneſtly, &amp; his ſweat was as it were drops of blood, falling down to the ground.</p>
+               <p n="36">36. Theſe are the words of his <hi>ſecond anſwer,</hi> and they are in the ſecond part, the very <hi>diſtinct confeſſion</hi> of all that I pre<g ref="char:EOLhyphen"/>tend in this matter (and therefore I need not make any <hi>reflections</hi> on the <hi>firſt</hi> part of them) For whatſoever, or how great ſoever the <hi>occaſion</hi> of the <hi>increaſe</hi> of his <hi>intenſion</hi> was (which <hi>I</hi> am willing to believe <hi>proportionable</hi> to the <hi>degree</hi> of the <hi>intenſion,</hi> a very weighty <hi>occaſion</hi> that thus inflamed his <hi>ardency</hi>) yet ſtill, 'tis confeſt, that on this <hi>occaſion,</hi> he now prayed <hi>more earneſtly</hi> than at the <hi>other times,</hi> that which now approached made a <hi>greater impreſſion on his humane nature;</hi> which what is it but a <hi>proofe</hi> of the point by me aſſerted, that <hi>Chriſt</hi> himſelfe was <hi>more ardent in one act of prayer</hi> (this in his <hi>agonie</hi>) than in <hi>another.</hi>
+               </p>
+               <p n="37">37. As for the <hi>greatneſſe</hi> of the <hi>occaſion,</hi> ſo <hi>profeſtlie great</hi> as to <hi>caſt him into that prodigious ſweat,</hi> falling <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>as it were drops of blood,</hi> that may <hi>teſtifie,</hi> but it cannot <hi>prejudg</hi> the <hi>ardency</hi> which was occaſioned thereby.</p>
+               <p n="38">38. Twas not in <hi>Chriſt,</hi> he will eaſily ſuppoſe with me) as it is oft diſcernable in <hi>many</hi> of <hi>us,</hi> that thoſe which really have no <hi>ſincerity</hi> of <hi>love</hi> or <hi>zeal</hi> to <hi>God,</hi> can yet, like the <hi>Marriners</hi> in the <hi>tempeſt,</hi> by ſome preſſing <hi>fear</hi> or danger be awaked to, but <hi>formall,</hi> and, be they never ſo <hi>loud,</hi> but <hi>hypocritically zealous</hi> prayers.</p>
+               <pb n="24" facs="tcp:154228:14"/>
+               <p n="39">39. The <hi>ardency</hi> in <hi>Chriſt</hi> was <hi>ſincere ardency,</hi> accompanied with <hi>acts</hi> of <hi>love</hi> and <hi>truſt</hi> of the ſame <hi>temper,</hi> and the height<g ref="char:EOLhyphen"/>ning it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, was an <hi>addition</hi> of <hi>degrees</hi> to that <hi>act</hi> of <hi>ar<g ref="char:EOLhyphen"/>dency,</hi> and ſo of <hi>prayer,</hi> and proportionably of <hi>love</hi> and <hi>truſt</hi> in <hi>God,</hi> above either what there was, or what there was <hi>occaſion</hi> for, at <hi>other</hi> times.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p n="1">1. Firſt you pretend in <hi>Sect.</hi> 21. of this your reply that the inward acts of Chriſts love of God were more intenſe at one time than another. Now this is not contained expreſly, nor can it by any <hi>logick</hi> be inferred from the words of the ſecond part of my ſecond anſwer, that <hi>he prayed more earneſtly in his agony than at other times, in regard of the matter againſt which he prayed, &amp;c.</hi> and therefore this ſecond part of my ſecond anſwer is not the very diſtinct confeſſion of all that you pretend in this matter; and therefore notwithſtanding them, you muſt make reflections on the firſt part of my anſwer, or elſe you will never reply thereunto.</p>
+                  <p n="2">2. That the ardency in Chriſt was a ſincere ardency, is not doubted of; all the queſtion is, what ardency it was in Chriſt that was heightned: there was, as I plainly in<g ref="char:EOLhyphen"/>timated in my anſwer, a twofold <hi>ardency</hi> in Chriſts pray<g ref="char:EOLhyphen"/>er, one <hi>regarding God,</hi> unto whom he prayed, and this was ſeated in the acts of love and truſt <hi>tanquam modus in re modificatâ:</hi> Another <hi>reſpected the matter againſt which he prayed,</hi> and the <hi>res modificata</hi> of this ardency was the acts of feare of, and greife for thoſe evills with which he encountred. I readily grant the height<g ref="char:EOLhyphen"/>ning of this latter ardency, ſo that there was in his agony an addition of degrees unto his feare of, and greife for thoſe evils againſt which he prayed, above either what
+<pb n="25" facs="tcp:154228:14" rendition="simple:additions"/>there was, or what there was occaſion for at other times: but as for the former ardency <hi>regarding God,</hi> and pla<g ref="char:EOLhyphen"/>ced in the inward acts of his love of God, &amp;c. that was uncapable of further heightning: for his actuall love of God was <hi>in termino,</hi> as they ſay, was alwaies at the high<g ref="char:EOLhyphen"/>eſt, and moſt intenſe; and this I ſhall not barely dictate: but prove by three arguments, which I preſent unto you to be examined, as rigidly as you pleaſe.</p>
+                  <p n="1">1. The all-fulneſſe and perfection of Chriſts habituall grace.</p>
+                  <p n="2">2. His perpetuall and uninterrupted happineſſe.</p>
+                  <p n="3">3. His impeccability.</p>
+                  <p n="1">1. The firſt argument, which hath been already ſo fully inſiſted upon, is the all-fulneſſe and perfection of Chriſts habituall grace; the habits of all graces and virtues in Chriſt were alwaies full and perfect, moſt intenſe and not capable of farther or higher degrees, and therefore ſo were the inward acts of thoſe graces and virtues too, and particularly the inward acts of the habituall grace of divine charity. The conſequence of this Enthymeme hath been already ſufficiently proved, and therefore I ſhall add nothing for further confirmation of it, but the teſtimony of ſome few Schoole-men. <hi>Aquinas,</hi> as <hi>Capreolus</hi> quotes him <hi>lib.</hi> 1. <hi>diſt.</hi> 17. <hi>qu.</hi> 2. <hi>fol:</hi> 306. hath this paſſage. <hi>Nihil inquit aliud eſt qualitatem augeri quam ſubjectùm magis participare qualitatem. Non enim aliud eſt eſſe qualitatis niſi quod habet in ſubjecto, ex hoc autem ipſo quod ſubjectum magis participat charitatem ve<g ref="char:EOLhyphen"/>hementius operatur, quia unumquodque operatur in quantum eſt actu. Aquinas</hi> thought (you ſee) that a greater ve<g ref="char:EOLhyphen"/>hemency in the operations of love, argued a greater par<g ref="char:EOLhyphen"/>ticipation in the ſubject of the habits of love. And againe <hi>ſecundâ ſecundae qu.</hi> 24. <hi>art.</hi> 4. <hi>ad tertium. Similiter
+<pb n="26" facs="tcp:154228:15" rendition="simple:additions"/>charitas eſſentialiter eſt virtus ordinata ad actum, unde idem eſt ipſam augeri ſecundum eſſentiam, &amp; ipſam habere efficaciam ad producendum ferventioris dilectionis actum.</hi> Unto this I ſhall adde a third place out of <hi>Aquinas</hi> quoted by <hi>Capreolus lib.</hi> 3. <hi>diſ.</hi> 27, 28, 29, 30. <hi>pag.</hi> 209. <hi>Cum actus &amp; habitus ſpeciem habent ex objecto, oportet quod ex eodem ratio perfectionis ipſius ſumatur. Objectum autem charitatis eſt ſummum bonum; igitur perfecta charitas eſt, quae in ſummum bonum fcrtur in tantum in quantum eſt diligibile.</hi> The habit of love is then perfect, when tis carried towards God as the cheife, when God is loved ſo farre forth as he may be loved, to wit, by a creature: when God is not loved thus intenſely, the habit of love (as <hi>Aquinas</hi> thought) was imperfect. With <hi>Aquinas</hi> alſo <hi>Scotus</hi> accords <hi>l.</hi> 3. <hi>diſ.</hi> 13. <hi>q.</hi> 3. <hi>Poſsibile eſt anima<g ref="char:cmbAbbrStroke">̄</g> Chriſti habere ſummam gratiam, ergo ſummam fruitionem. Conſe<g ref="char:EOLhyphen"/>quentia probatur, quia actus naturaliter elicitus ab aliquâ formâ, aequatur in perfectione illi formae.</hi> Unto theſe two great <hi>Schoole-men,</hi> I ſhall adde the teſtimony of a <hi>Philo<g ref="char:EOLhyphen"/>ſopher</hi> of great ſubtilty and repute <hi>Pet. Hurt. de Mendoza. De An. diſ.</hi> 16. <hi>ſect.</hi> 8. <hi>p.</hi> 672. <hi>Intenſio actus ſecundi ſuppo<g ref="char:EOLhyphen"/>nit aequalem intenſionem in actu primo, cum actus ſecun<g ref="char:EOLhyphen"/>dus ſupponat primum.</hi>
+                  </p>
+                  <p>A ſecond argument is drawn from the perpetuall and <hi>uninterrupted</hi> happineſſe of Chriſt: it is reſolved both by <hi>Aquinas</hi> 3 <hi>a.q.</hi> 34. <hi>.art.</hi> 4. <hi>Scotus lib.</hi> 3. <hi>diſp.</hi> 18. and their followers, that Chriſt in regard of his Soule was even here in this life, from the very firſt moment of his con<g ref="char:EOLhyphen"/>ception, all his life long unto his death <hi>perfectus compre<g ref="char:EOLhyphen"/>henſor;</hi> and therefore he injoyed in his ſoule all that was neceſſary unto heaven happineſſe: and I find learned <hi>Proteſtants</hi> herein conſenting with them; now tis the unanimous opinion of the <hi>Schoole-men</hi> that a moſt in<g ref="char:EOLhyphen"/>tenſe
+<pb n="27" facs="tcp:154228:15"/>actuall love of God, an actuall love of God for degrees as high, as ardent, as fervent, as is according to Gods ordinary power poſſible unto the humane na<g ref="char:EOLhyphen"/>ture, doth neceſſarily belong to the heaven happineſſe of men. The <hi>Scotiſts</hi> place the very <hi>formality</hi> of hap<g ref="char:EOLhyphen"/>pineſſe ſolely herein, and <hi>Suarez</hi> with others think it eſſentiall unto happineſſe, though he ſuppoſeth the eſſence of happineſſe not to conſiſt wholly or chiefly in it. And for the reſt of the <hi>Thomiſts,</hi> who hold that the eſſence of happineſſe ſtands onely in the <hi>beatificall viſion</hi> of God, why even they make this actuall moſt intenſe love of God a naturall and neceſſary conſequent of the <hi>beatifique viſion.</hi> By this that hath been ſaid it is evident, that whereas you averre that the inward acts of Chriſts love of God were leſſe intenſe at one time than another, (for ſo you affirme in ſaying they were more intenſe at one time than at another) you deny Chriſt to be happy and bleſſed at thoſe times where<g ref="char:EOLhyphen"/>in his inward acts of love were thus leſſe intenſe, and that this is <hi>propoſitio malè ſonans,</hi> harſhly ſounding in the eares of Chriſtians, that are jealous of their redeemers honour, will I hope be ingeniouſly confeſſed by your ſelfe upon a review of it. Adde hereunto that the Schoole<g ref="char:EOLhyphen"/>men generally conſent, as unto a propoſition that is piouſly credible, that the happineſſe of Chriſts ſoule did even during the whole time of his abode here, farre ſurmount that of all the Saints, and Angells in heaven: but if the inward acts of his love of God were leſſe intenſe at one time than another, the bliſſe of his Soule would have come farre ſhort of that of the low<g ref="char:EOLhyphen"/>eſt Saint in heaven; for the actuall love of the loweſt Saint was not, is not more intenſe at one time than another, but alwaies full and perfect; and therefore
+<pb n="28" facs="tcp:154228:16"/>uncapable of further and higher degrees.</p>
+                  <p>The third and laſt argument, is fetched from Chriſts impeccability; it was impoſſible for Chriſt to ſinne: but if the inward acts of his love of God had been leſſe intenſe at one time than at another, he had ſinned; for he had broken that firſt and great commandment, thou ſhalt love the Lord thy God, with all thy heart, with all thy Soule, with all thy mind, with all thy might, and ſtrength. <hi>Deut.</hi> 6.5. <hi>Matth.</hi> 22.37. <hi>Mark.</hi> 12.30. <hi>Luk.</hi> 10.27. For this commandment enjoyneth the moſt intenſe actuall love of God, that is poſſible; an actuall love of him <hi>tanto nixu &amp; conatu quanto fieri po<g ref="char:EOLhyphen"/>teſt (i. e.)</hi> as much as may be; what better and more probable gloſſe can we put on that clauſe, thou ſhalt love the Lord thy God with all thy ſtrength or might, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, then thou ſhalt love him with thy uttermoſt force and endeavour: ſutable hereunto is that interpretation which <hi>Aquinas</hi> giveth of thoſe words thou ſhalt love the Lord with all thy heart (i. e.) ſaith he <hi>ex toto poſſe tuo,</hi> with as high a degree of actuall love as thou art able to reach unto. <hi>Deus eſt totaliter dili<g ref="char:EOLhyphen"/>gendus, poteſt intelligi ita quod totalitas referatur ad di<g ref="char:EOLhyphen"/>ligentem: &amp; ſic etiam Deus totaliter diligi debet; quia ex toto poſſe ſuo homo debet diligere deum, &amp; quicquid habet, ad dei amorem ordinare; ſecundum illud Deu<g ref="char:EOLhyphen"/>ter.</hi> 6. <hi>Diliges dominum deum tuum ex toto corde tuo,</hi> 2 <hi>da</hi> 2 <hi>dae, q.</hi> 27. <hi>art.</hi> 5. But now Chriſt man had in him as great abilities for the actuall love of God as Adam in Paradiſe, as the Saints and Angels in hea<g ref="char:EOLhyphen"/>ven; for an all-fulneſſe of the grace and virtue of love dwelled in him, and therefore if the inward acts of his love were leſſe intenſe at one time, than another; then ſomtimes when he actually loved God, he did not love
+<pb n="29" facs="tcp:154228:16" rendition="simple:additions"/>him as intenſly, as ardently, as fervently as he could, he did not love him with all his might, and ſtrength, <hi>ex to<g ref="char:EOLhyphen"/>to poſſe ſuo,</hi> and ſo conſequently he fulfilled not all righte<g ref="char:EOLhyphen"/>ouſneſſe; for his obedience unto this commandment would have been by this your opinion imperfect and ſinfull, which, but to imagine were blaſphemy. But you will be ready to tell me, that you have prevented this charge, by that expoſition of thoſe large inclu<g ref="char:EOLhyphen"/>ſive words, thou ſhalt love the Lord thy God with all thy heart, with all thy Soule &amp;c. which you have given in your treatiſe of will-worſhip, which I ſhall tranſcribe and briefly examine.</p>
+                  <p>
+                     <hi>Once more, if it be objected that what ever is thus per<g ref="char:EOLhyphen"/>formed, is commanded by thoſe large incluſive words, [thou ſhalt love thy God, with all thy heart, with all thy Soule &amp;c.] nothing being of ſuch latitude, as that the (with all) ſhould not contain it. I anſwer, that that phraſe denoteth two things only.</hi>
+                  </p>
+                  <p n="1">1. <hi>Sincerity of this love of God, as oppoſed to partiall divided love, or ſervice.</hi>
+                  </p>
+                  <p n="2">2. <hi>The loving him above all other things, and not ad<g ref="char:EOLhyphen"/>mitting any thing into Competition with him; not loving any thing elſe in ſuch a degree. Treat: wil-worſh. p.</hi> 24.</p>
+                  <p>Here you barely dictate, that that phraſe, [Thou ſhalt love the Lord thy God with all thy heart, with all thy Soule &amp;c.] denoteth onely thoſe two things, you mention, whereas your reader hath juſt reaſon to ex<g ref="char:EOLhyphen"/>pect a confirmation of what you ſay.</p>
+                  <p n="1">1. Becauſe this very anſwer is the ſhift of Papiſts in ſeverall controverſies between them and us, <hi>Bel<g ref="char:EOLhyphen"/>larm. Tom.</hi> 2. <hi>De monachis. lib.</hi> 2. <hi>cap.</hi> 13. <hi>Tom.</hi> 4. <hi>de
+<pb n="30" facs="tcp:154228:17"/>amiſsione gratiae, &amp; Statu peccati lib:</hi> 1. <hi>cap.</hi> 12. <hi>&amp;c.</hi> And was it not fit that you ſhould acquaint us, what thoſe cogent reaſons were, that neceſſitated you un<g ref="char:EOLhyphen"/>to this compliance with Papiſts?</p>
+                  <p n="2">2. Thoſe proteſtants, that have dealt in the con<g ref="char:EOLhyphen"/>troverſies betwixt us and the Papiſts, have proved this your ſenſe to be too narrow, and with-all have given another expoſition
+<note n="a" place="margin"> Nimirùm huc tandem res redit, ut ſciamus ita imperari no<g ref="char:EOLhyphen"/>bis amorem Dei, ut nullus ſit amo<g ref="char:EOLhyphen"/>ris gradus, intra ſummum, cui quiſquam debeat acquieſcere. ſum<g ref="char:EOLhyphen"/>mum autem dico non tantum com<g ref="char:EOLhyphen"/>paratè ad res alias, quae ſub amo<g ref="char:EOLhyphen"/>rem cadunt: ſed etiam, &amp; quidem praecipuè comparatè ad nos ipſos, ut nè ultrà poſſimus amare: Ita enim verè totum cor erit tota ani<g ref="char:EOLhyphen"/>ma: mens tota vires omnes, &amp;c. <hi>Chamier. Tom.</hi> 3. <hi>lib.</hi> 11. <hi>cap.</hi> 16. <hi>ſect.</hi> 22.</note> of the words which they have con<g ref="char:EOLhyphen"/>firmed and vindicated from the exceptions of the Papiſts. Now of all this, it had been equitable for you to have taken notice, and not to have troubled your reader with that which hath been ſo abundantly refuted by Pro<g ref="char:EOLhyphen"/>teſtant pens. But to take a ſun<g ref="char:EOLhyphen"/>der this anſwer into its parts.</p>
+                  <p>
+                     <hi>The phraſe denoteth</hi> 1. <hi>ſin<g ref="char:EOLhyphen"/>cerity of this love of God, as op<g ref="char:EOLhyphen"/>poſed to partiall divided love, or ſervice;</hi> Unto this I ſhall reply. 1. In the words of <hi>Ames</hi> unto <hi>Bellar<g ref="char:EOLhyphen"/>mine: Bellar: Enervat: Tom.</hi> 2. <hi>p.</hi> 154. <hi>Hoc aliquid eſt, ſed non totum quod his verbis praecipitur, tum enim illi etiam qui minimum gradum verae charitatis, quamvis tepidi fuerint, hoc preceptum perfectè implerent.</hi> This is ſomething, but it is not all that is commanded in theſe words, for then thoſe that have the leaſt degree of true charity, although they were lukewarme ſhould perfectly fulfill this command.</p>
+                  <p n="2">2. To <hi>Ames</hi> his words, I ſhall adde thoſe of the Dr. <hi>Francis White</hi> (one that was farre from <hi>Puritaniſme</hi>) in
+<pb n="31" facs="tcp:154228:17" rendition="simple:additions"/>his reply to the <hi>Jeſuite Fiſhers</hi> anſwer: <hi>If the pre<g ref="char:EOLhyphen"/>cept, Thou ſhalt love the Lord thy God with all thy heart &amp;c. bind men no further than to an unfained or ſincere love of God, and the obſervance of his commandements without breach of friendſhip, then it bindeth them not to the ſhunning of veniall ſins. But according to Auſtin and Bernard, it bindeth man to the avoiding of all ſin, both veniall and mortall. But proceed we on to the ſecond part of your anſwer. That phraſe denoteth Secondly, the loving him above all other things, and not admitting any thing into competition with him: not loving any thing elſe in ſuch a degree.</hi> The <hi>Schoole-men</hi> tell us that God may be loved above all things three manner of waies, <hi>objectivè, appretiativè,</hi> and <hi>intenſivè:</hi> now which of theſe waies it is that you imbrace, or whether you imbrace all of them I cannot determine, and therefore I ſhall waite untill you declare your ſelfe, and accordingly ſhall ſhape mine anſwer. But in the meane while, that this commandement enjoineth a moſt intenſe actuall love of God, a love of God with as high a degree as is poſſible unto the humane nature, I ſhall evince by theſe following reaſons.</p>
+                  <p n="1">1. It cannot be denied but that the intenſion, and de<g ref="char:EOLhyphen"/>degrees of love fall all under the commandement of love it ſelfe: for as <hi>Aquinas noteth ſecundâ ſecun<g ref="char:EOLhyphen"/>dae queſt.</hi> 44. <hi>art.</hi> 8. <hi>Modus, qui pertinet ad rationem vir<g ref="char:EOLhyphen"/>tuoſi actûs, cadit ſub precepto, quod datur de actu vir<g ref="char:EOLhyphen"/>tutis. This premiſed I thus argue:</hi> Either the loweſt degree, or ſome middle degree, or the higheſt degree
+<pb n="32" facs="tcp:154228:18" rendition="simple:additions"/>of actuall love, is here commanded; if the loweſt, then that is a perfect fulfilling of this law, and the luke<g ref="char:EOLhyphen"/>warmneſſe of love can be no ſin; if you ſay ſome one of the middle degrees betwixt the loweſtand the high<g ref="char:EOLhyphen"/>eſt, it concerneth you to determine, and ſpecify what degree this is, below which all degrees of love are ſin full, and beyond which all degrees of love are a voluntary oblation and uncommanded worſhip; and if you cannot do this (as I know you cannot) I ſhall con<g ref="char:EOLhyphen"/>clude, that the higheſt degree is commanded in our love of God.</p>
+                  <p n="2">2. A moſt intenſe love of God, a love of him with the utmoſt of our forces and endeavors is due unto God <hi>debito connaturalitatis, &amp; debito gra<g ref="char:EOLhyphen"/>titudinis,</hi> 1. <hi>debito connaturalitatis,</hi> by an obligation of congruence, for it is very fitting that we love him as much as we can, who is infinitely good in himſelfe, and therefore the cheife good, and ſupreame end of man. The Proteſtants are brought in by <hi>Bellarmine de Mon. Lib.</hi> 2. <hi>cap.</hi> 13. thus objecting againſt their popiſh e<g ref="char:EOLhyphen"/>vangelicall counſells of perfection, that he that is un<g ref="char:EOLhyphen"/>willing to love God as much as he can, doth hereby deny, to wit virtually and interpretatively, that God is the cheife good of man; and whereas he is ſo bold in his anſwer to affirme, that <hi>non requiritur ut quis ſummum bonumtam ardenter amet, quam fortè poſs et: Ames</hi> hath hereunto a very round and acute reply, <hi>tum non requiri<g ref="char:EOLhyphen"/>tur</hi> (ſaith he) <hi>ut in bonum omni ratione ſummum fera<g ref="char:EOLhyphen"/>mur, affectu omni etiamratione ſummo.</hi>
+                  </p>
+                  <p n="2">2. This moſt intenſe actuall love of God is due unto God by an obligation of gratitude, for hereby (as Dr
+<pb n="33" facs="tcp:154228:18" rendition="simple:additions"/>
+                     <hi>Francis White</hi> againſt <hi>Fiſher</hi> out of <hi>Bernard</hi>) we are indeb<g ref="char:EOLhyphen"/>ted and owe to the almighty, <hi>omne quod ſumus, &amp; omne quod poſſumus,</hi> whatſoever we are, &amp; whatſoever we are able to do.</p>
+                  <p>For the further confirmation of this point, Pro<g ref="char:EOLhyphen"/>teſtants alleadge the teſtimonies of divers of the Fa<g ref="char:EOLhyphen"/>thers, particularly <hi>Auſtin</hi> and <hi>Bernard,</hi> as alſo of the ancient Schoole men, who ſay that this command cannot be fulfilled in this life; becauſe it commands ſuch a perfection of love, as is impoſſible to be attai<g ref="char:EOLhyphen"/>ned in this life. I ſhall not clog the readers patience with tranſcribing the ſeverall quotations, becauſe I beleive he may have them almoſt in every writer of controverſies betwixt us and the Papiſts: onely I ſhall trouble him with what I conceive to be moſt remarkeable in <hi>Aquinas</hi> and <hi>Scotus</hi> concerning this mater. 1. <hi>Aquinas ſecunda ſecundae qu.</hi> 44. <hi>art.</hi> 6. <hi>intendit deus per hoc praeceptum Deut.</hi> 6. <hi>ut homo deo totaliter uniatur; quod fiet in patriâ, quando deus erit omnia in omnibus,</hi> 1 <hi>Cor.</hi> 15. <hi>&amp; ideo plenè &amp; perfectè in patriâ implebitur hoc praeceptum.</hi> And againe. <hi>qu.</hi> 184. <hi>art.</hi> 3. <hi>Non autem dilectio dei &amp; proximi cadit ſub praecepto ſecundum aliquam menſuram, it a quòd id quod eſt plus, ſub conſilio remane at; ut patet ex ipſâ formâ praecepti, quae perfectionem demonſtrat; ut cum dicitur, diliges dominum deum ex toto corde tuo: totum enim &amp; perfectum idem ſunt ſec. Phil.</hi> 3. <hi>phyſ. &amp; cum dicitur, diliges proximum tuum ſicut teipſum: unuſquiſque enim ſe ipſum maximè diligit. Et hoc ideo eſt, quia finis praecepti charitas eſt, ut Apoſtolus</hi> 1 <hi>Tim.</hi> 1. <hi>in fine autem non adhibetur aliqua menſura, ſed ſolum in his quae ſunt
+<pb n="34" facs="tcp:154228:19" rendition="simple:additions"/>ad finem, ut philoſophus dicit</hi> 1. <hi>polit. Sicut medicus non adhibet menſuram quantum ſanet, ſed quanta medicina vel diaeta utatur ad ſanandum.</hi> Thus alſo <hi>Scotus lib.</hi> 3. <hi>diſt.</hi> 27. <hi>dico igitur quod illud praeceptum, Deut.</hi> 6. <hi>non poteſt impleri in viâ, quantum ad omnes con<g ref="char:EOLhyphen"/>ditiones, quae exponuntur perillas additiones ex toto corde, &amp; ex totâ anima, &amp;c. quià non poteſt eſſe in viâ iſtâ tanta recollectio virium, ut amotis impedimentis poſsit voluntas tanto conatu ferri, quanto poſſit, ſi vires eſſent unitae, &amp; non impeditae, &amp; quod ad talem intenſionem actus expulſis impedimentis, &amp; recollectis viribus debet intelligi dictum Aug. et magiſtri, quod praeceptum illud non impletur in viâ; nam pronitas virium inferi<g ref="char:EOLhyphen"/>orum pro ſtatu iſto impedit ſuperiores ab actibus perfe<g ref="char:EOLhyphen"/>ctis.</hi> The firſt that <hi>Bellarmine</hi> hath to evade theſe teſtimonies is not unknowne unto me, viz. that they are to be underſtood of the command <hi>quatenus indi<g ref="char:EOLhyphen"/>cant finem, non quatenus praecipit medium;</hi> if you think fit to adventure hereupon, I muſt needs intreat you to remove firſt out of your way the replies of <hi>Chamier</hi> and <hi>Ames</hi> unto it.</p>
+                  <p>Thirdly you ſeeme in the latter end of <hi>ſection the</hi> 39. to intimate, that in the time of Chriſts agony there was more occaſion for the heightning of his love of God than there was at other times. What you meane by theſe ocaſio<g ref="char:cmbAbbrStroke">̄</g>s of heightning Chriſts love of God that you intimate, I will not undertake to gueſſe; but this I am ſure of, that at all other times he had ſufficient cauſes, grounds, and motives to induce him to love God with as heightned degrees of Actuall love as the humane na<g ref="char:EOLhyphen"/>ture could reach unto; he injoied the beatificall viſion,
+<pb n="35" facs="tcp:154228:19"/>a cleare, evident, and intuitive knowledg of the di<g ref="char:EOLhyphen"/>vine eſſence, that had in it all the fulneſſe of good<g ref="char:EOLhyphen"/>neſs, and ſo was an object infinitely lovely and amiable: Now ſuch an Object thus known, thus ſeen, challen<g ref="char:EOLhyphen"/>geth ſuch a meaſure of actuall love, as that it leaveth no place for a farther and higher degree. The <hi>Tho<g ref="char:EOLhyphen"/>miſts</hi> generally maintaine that this moſt intenſe love of God is a naturall, and neceſſary ſequele of the bea<g ref="char:EOLhyphen"/>tificall viſion, neceſſary <hi>quo ad exercitium,</hi> as well as <hi>quoad ſpecificationem actûs;</hi> now that which works naturally and neceſſarily, works as vehemently and forcibly as it can. <hi>Omne agens de neceſsitate, neceſ<g ref="char:EOLhyphen"/>ſariò agit uſque ad ultimum potentiae ſuae;</hi> therefore the inward acts of Chriſts love of God were alwaies as ardent, and fervent as he could performe them, and therefore ſome were not more intenſe than o<g ref="char:EOLhyphen"/>thers; for if we ſpeak of a <hi>liberty of indifferency, and indetermination,</hi> he had no more liberty towards the intenſion of the inward acts of his love, than he had towards the acts themſelves.</p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr. <hi>HAMMOND.</hi>
+               </head>
+               <p n="40">40. Of this I ſhall hope it is <hi>poſſible</hi> to finde ſome <hi>inſtan<g ref="char:EOLhyphen"/>ces</hi> among men (of whoſe <hi>graces</hi> it can be no <hi>blaſphemy</hi> to affirme, that they are <hi>capable of degrees</hi>) ſuppoſe we <hi>a ſin<g ref="char:EOLhyphen"/>cerely pious</hi> man, a true <hi>lover</hi> of <hi>God,</hi> and no <hi>deſpiſer</hi> of his <hi>poore perſecuted Church,</hi> and ſuppoſe we, as it is very ſup<g ref="char:EOLhyphen"/>poſeable, that at <hi>ſome</hi> time the <hi>ſeas roar,</hi> the <hi>tempeſt</hi> be at its <hi>height,</hi> and the <hi>waves beat</hi> violently upon this <hi>frail brittle</hi> veſſell, may it not be a <hi>ſeaſon</hi> for that <hi>pious</hi> mans <hi>ardency</hi> to receive ſome <hi>growth?</hi> for his <hi>zeal</hi> to be <hi>emulous</hi> of thoſe
+<pb n="36" facs="tcp:154228:20"/>
+                  <hi>waves,</hi> and poure it ſelfe out more <hi>profuſely</hi> at ſuch, than at a <hi>calmer ſeaſon?</hi> I hope there be ſome at <hi>this</hi> time among us, in whom this <hi>point</hi> is really <hi>exemplified;</hi> if it be not, it is an effect of <hi>want,</hi> not <hi>fulneſſe</hi> of <hi>love.</hi> But I <hi>need</hi> not thus to <hi>inlarge,</hi> It is not by this <hi>Refuter</hi> denied of the <hi>perſon</hi> of <hi>Chriſt,</hi> and that is my <hi>intire</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in reference ei<g ref="char:EOLhyphen"/>ther to <hi>Mr. C.</hi> or to <hi>him,</hi> the <hi>utmoſt</hi> that <hi>I</hi> undertook to <hi>demonſtrate</hi> then, or to juſtify now.</p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>This Section your <hi>poore refuter</hi> had paſſed over as a digreſſion, had he not found himſelfe named in the cloſe of it; <hi>it is not by this refuter denyed of the perſon of Chriſt.</hi> I ſuppoſe the antecedent to the relative is in theſe words, <hi>may it not be a ſea<g ref="char:EOLhyphen"/>ſon for that pious mans ardency to receive ſome growth? for his zeale to be emulous of thoſe waves, and poure it ſelfe out more profuſely at ſuch than at a calmer ſea<g ref="char:EOLhyphen"/>ſon?</hi> And then there be two things that you affirme, that I deny not of the perſon of Chriſt.</p>
+                  <p n="1">1. That a tempeſtuous time (a time of affli<g ref="char:EOLhyphen"/>ction) was a ſeaſon for Chriſts ardency to receive ſome growth.</p>
+                  <p n="2">2. That twas a ſeaſon for his zeale to poure it ſelfe out more profuſely at ſuch, than at a calmer ſeaſon.</p>
+                  <p>As for the firſt ſentence, a time of affliction was a ſeaſon for Chriſts ardency to receive ſome growth, if by ardency you underſtand the ardency of his love of God, I deny that it did receive any growth; for to aſcribe growth unto it is to charge it with imper<g ref="char:EOLhyphen"/>fection.
+<pb n="37" facs="tcp:154228:20"/>
+                     <hi>Charitas, quamdiu augeri poteſt</hi> (ſaith Auſtin) <hi>profectò illud quod minus eſt quàm debet, ex vitio eſt.</hi> And I am very confident that beſides this replyer, no learned man either proteſtant; or papiſt hath aſcribed any ſuch growth unto the ar<g ref="char:EOLhyphen"/>dency of Chriſts actuall love of God.</p>
+                  <p>As for the ſecond ſentence, that a tempeſtuous time, a time of Chriſts affliction <hi>was a ſeaſon for his zeale to poure it's ſelfe out more profuſely than at a calmer ſeaſon,</hi> this is not (I grant) denied by me, if by <hi>this more profuſe pouring out of his zeale</hi> you only underſtand the outward expreſſions of his zeale; but I cannot but extreamly wonder that you affirme this to be the utmoſt, that you undertook to demonſtrate to Mr. Cawdrey, or to juſtify now againſt me &amp;c.</p>
+                  <p>For 1. in your anſwer to <hi>Mr. Cawdrey,</hi> you affirme by conſequent, that Chriſts love of God was capable of farther and higher degrees, but love is predicated of the outward expreſſions thereof on<g ref="char:EOLhyphen"/>ly <hi>analogically, analogiâ attributionis extrinſecae, ſicut ſanitas dicitur de urina.</hi>
+                  </p>
+                  <p n="2">2. In this your reply unto me you expreſly a<g ref="char:EOLhyphen"/>verre, that the inward acts of Chriſts love of God were more intenſe at one time, than another <hi>Sect.</hi> 21. and I hope you have more philoſophy, then to confound the inward acts, and the outward expreſ<g ref="char:EOLhyphen"/>ſions of love.</p>
+                  <p>That which hath herein occaſioned your miſtake is, I beleeve, a ſuppoſall that the inward acts of love, and the outward expreſſions thereof are, if they be
+<pb n="38" facs="tcp:154228:21"/>ſincere, alwaies exactly proportioned in point of degree; but this propoſition hath no truth in it, as you will ſoone find, if you attempt the proofe of it, who almoſt but may eaſily conceive how 'tis very ordinary for the outward expreſſions of love to be gradually beneath the inward acts thereof? he is no hypocrite in expreſſing his love, that loveth inwardly more than he expreſſeth outwardly; the degrees then of the inward acts of love may not on<g ref="char:EOLhyphen"/>ly equall, but alſo tranſcend the moſt ſincere expreſ<g ref="char:EOLhyphen"/>ſions of love. It may be ſo in all men, and I ſhall alleadge two reaſons, why in Chriſt the inward acts of his love were alwaies equally intenſe, though the outward expreſſions thereof were gradually dif<g ref="char:EOLhyphen"/>ferent.</p>
+                  <p>The firſt reaſon agreeth unto Chriſt in common with other men. Chriſt as man was alwaies obli<g ref="char:EOLhyphen"/>ged unto the moſt intenſe, ardent, and fervent in<g ref="char:EOLhyphen"/>ward acts of love of God, but he was not alwaies obliged unto the moſt intenſe expreſſions of theſe inward acts; the reaſon of the difference betweene his obligation unto the intenſion of the inward acts of his love, and his obligation unto the intenſion of the outward expreſſions thereof, you may fetch from what is ſaid by <hi>Aquinas</hi> 2 <hi>da</hi> 2 <hi>dae, q.</hi> 27. <hi>art.</hi> 6. <hi>ad tertiam. Nec eſt ſimile de interiori actu charitatis &amp; exterioribus actibus. Nam interior actus charitatis habet rationem finis, quià ultimum bonum hominis conſiſtit in hoc, quod anima Deo inhaereat, ſecundum illud Pſalmi, mihi adhaerere deo bonum eſt. Exteriores autem actus ſunt ſicut ad finem, &amp; ideo ſunt
+<pb n="39" facs="tcp:154228:21" rendition="simple:additions"/>commenſurandi, &amp; ſecundum charitatem, &amp; ſecun<g ref="char:EOLhyphen"/>dum rationem.</hi>
+                  </p>
+                  <p>The ſecond reaſon is peculiar unto Chriſt above all other men: Whil'ſt he lived here upon earth, he injoyed the <hi>beatificall viſion;</hi> and the naturall, and neceſſary conſequent thereof is a moſt intenſe actu<g ref="char:EOLhyphen"/>all love of God, and therefore the inward acts of his love of God were equally intenſe at all times: but as for the outward expreſſions of theſe acts, Chriſt had to them a proper freedome, taking the word [freedome] for an <hi>active indifferency, in ſenſu diviſo,</hi> and therefore they might be more intenſe at one time than another; but of this you may, if you pleaſe, ſee further in <hi>Suarez in tertiam partem Thom: diſ.</hi> 37. <hi>ſect.</hi> 4. where the queſtion debated is <hi>quomodo vo<g ref="char:EOLhyphen"/>luntas Chriſti ex neceſsitate diligens deum, in reli<g ref="char:EOLhyphen"/>quis actibus potuerit eſſe libera.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="quotation_from_Hammond">
+               <head>Dr <hi>HAMMOND.</hi>
+               </head>
+               <p n="41">41. And ſo I ſhut up this <hi>haſty</hi> paper, hoping that he which <hi>invited</hi> and <hi>promiſed</hi> it a <hi>welcome,</hi> in caſe it were given in a <hi>fair and Scholaſticall way,</hi> having nothing to accuſe in it' as to the <hi>firſt Epithet,</hi> will <hi>abate</hi> ſomewhat in reference to the ſecond, and allow it a <hi>friendly,</hi> though being <hi>unqualified,</hi> it pre<g ref="char:EOLhyphen"/>tend not to a more <hi>hoſpitable reception.</hi>
+               </p>
+               <div type="rebuttal_by_Jeanes">
+                  <head>JEANES.</head>
+                  <p>Unto this your <hi>haſty</hi> paper (as you call it) I have given a <hi>deliberate</hi> anſwer; and I hope it may contend with your reply for civility, and faireneſſe in carriage of the controverſy between us. As for the <hi>Scholaſticall<g ref="char:EOLhyphen"/>neſſe</hi>
+                     <pb n="40" facs="tcp:154228:22" rendition="simple:additions"/>of either paper, it were a vaine thing for me to ſay any thing of it; for we muſt be tried by the learned <hi>readers,</hi> unto whom we both have, by thus appearing in publique, appealed; and unto their judgment I ſhall contentedly ſubmit my ſelfe. And thus your <hi>refu<g ref="char:EOLhyphen"/>ter,</hi> for the preſent, takes his leave of you, hoping, when your more <hi>pleaſing and profitable imployments</hi> ſhall permit, to heare further from you; in the meane time he ſhall reſt: Your moſt humble ſer<g ref="char:EOLhyphen"/>vant</p>
+               </div>
+            </div>
+            <closer>
+               <signed>HENRY JEANES.</signed>
+            </closer>
+            <pb facs="tcp:154228:22"/>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
